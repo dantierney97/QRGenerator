@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Layout/HeaderSection.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0hlYWRlclNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ugd4ksu6yr
+
 [/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-vo19hihs1r

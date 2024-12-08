@@ -1,0 +1,12 @@
+h2 {
+    color: red;
+}
+.headerSection {
+    font-size: 12px;
+}
+
+header {
+    width: calc(100vw - 250px);
+    margin-left: auto;
+    margin-right: auto;
+}
