@@ -38,8 +38,6 @@
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/mscorlib.o0184ey5ia.wasm
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/netstandard.hb3h2rr8mk.wasm
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.o7m797uxww.pdb
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.mfseqdpbvq.wasm
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.rb3sudfxx6.wasm
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Buffers.ijnujodfj9.wasm
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Concurrent.xuu1t5r6su.wasm
@@ -360,12 +358,10 @@
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Specialized.or8crjknb4.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.0phgw2xrn5.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.7vk18dph4p.wasm.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.o7m797uxww.pdb.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Xml.Linq.69tqdcrd1i.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Data.DataSetExtensions.cw7lxxyoji.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.TypeConverter.83hfjmq6ht.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.Calendars.3w9b0yvjal.wasm.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.mfseqdpbvq.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.IO.FileSystem.Primitives.n5yu5rrxku.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Net.Quic.zj1198aj69.wasm.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Xml.ReaderWriter.grlqkpulr2.wasm.gz
@@ -1071,11 +1067,6 @@
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/mo0rlrj9pa-tjcz0u77k5.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/wywijz2ilh-tptq2av103.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/lhbjgyscst-lfu7j35m59.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-mfseqdpbvq.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-o7m797uxww.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-h2ngbh8f89.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-q3bqw79ple.gz
-/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-ovvrxj29qb.gz
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/staticwebassets.build.json
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/staticwebassets.development.json
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1090,3 +1081,12 @@
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/refint/QRGenerator.dll
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/QRGenerator.pdb
 /Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/ref/QRGenerator.dll
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wofo53i849.pdb
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.n60r3jtxz4.wasm
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wofo53i849.pdb.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.n60r3jtxz4.wasm.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-n60r3jtxz4.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-wofo53i849.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-v5oxn8w2o8.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-2k6j6bbps3.gz
+/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-c1vpamseay.gz
