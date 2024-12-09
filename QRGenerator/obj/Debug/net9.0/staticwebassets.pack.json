@@ -9,6 +9,70 @@
       "PackagePath": "staticwebassets/QRGenerator.styles.css"
     },
     {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-bold-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-italic-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-light-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-light-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-medium-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"
+    },
+    {
       "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

@@ -1,5 +1,81 @@
+@font-face {
+    font-family: 'tesco_modernbold';
+    src: url('./Fonts/Tesco Modern/tescomodern-bold-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernbold_italic';
+    src: url('./Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernitalic';
+    src: url('./Fonts/Tesco Modern/tescomodern-italic-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernlight';
+    src: url('./Fonts/Tesco Modern/tescomodern-light-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernlight_italic';
+    src: url('./Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernmedium';
+    src: url('./Fonts/Tesco Modern/tescomodern-medium-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernmedium_italic';
+    src: url('./Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tesco_modernregular';
+    src: url('./Fonts/Tesco Modern/tescomodern-regular-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'tesco_modernregular', sans-serif;
+}
+
+h1 {
+    font-family: 'tesco_modernbold', sans-serif;
 }
 
 h1:focus {

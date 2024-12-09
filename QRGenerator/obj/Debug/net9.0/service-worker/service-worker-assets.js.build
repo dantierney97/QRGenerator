@@ -1,8 +1,72 @@
 self.assetsManifest = {
-  "version": "79XW21ow",
+  "version": "T8Qndbjh",
   "assets": [
     {
-      "hash": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=",
+      "hash": "sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=",
+      "url": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff"
+    },
+    {
+      "hash": "sha256-96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=",
+      "url": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff2"
+    },
+    {
+      "hash": "sha256-urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs=",
+      "url": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff"
+    },
+    {
+      "hash": "sha256-v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=",
+      "url": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2"
+    },
+    {
+      "hash": "sha256-Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg=",
+      "url": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff"
+    },
+    {
+      "hash": "sha256-MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=",
+      "url": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff2"
+    },
+    {
+      "hash": "sha256-1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY=",
+      "url": "Fonts/Tesco Modern/tescomodern-light-webfont.woff"
+    },
+    {
+      "hash": "sha256-yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=",
+      "url": "Fonts/Tesco Modern/tescomodern-light-webfont.woff2"
+    },
+    {
+      "hash": "sha256-kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw=",
+      "url": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff"
+    },
+    {
+      "hash": "sha256-j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=",
+      "url": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2"
+    },
+    {
+      "hash": "sha256-oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=",
+      "url": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff"
+    },
+    {
+      "hash": "sha256-uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI=",
+      "url": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff2"
+    },
+    {
+      "hash": "sha256-+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=",
+      "url": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff"
+    },
+    {
+      "hash": "sha256-mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI=",
+      "url": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2"
+    },
+    {
+      "hash": "sha256-9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s=",
+      "url": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff"
+    },
+    {
+      "hash": "sha256-FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI=",
+      "url": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"
+    },
+    {
+      "hash": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=",
       "url": "QRGenerator.styles.css"
     },
     {
@@ -114,12 +178,12 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm"
     },
     {
-      "hash": "sha256-+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=",
-      "url": "_framework/QRGenerator.gye5i57aji.wasm"
+      "hash": "sha256-6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=",
+      "url": "_framework/QRGenerator.49ds5ydtwn.pdb"
     },
     {
-      "hash": "sha256-VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=",
-      "url": "_framework/QRGenerator.sif37gb9is.pdb"
+      "hash": "sha256-Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=",
+      "url": "_framework/QRGenerator.ed42102qpt.wasm"
     },
     {
       "hash": "sha256-HbRkDUeB2xv5LFtTNVUn+9DHnbGuihOXCt1EQd2esZc=",
@@ -770,7 +834,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI=",
+      "hash": "sha256-Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -822,7 +886,7 @@ self.assetsManifest = {
       "url": "_framework/netstandard.hb3h2rr8mk.wasm"
     },
     {
-      "hash": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=",
+      "hash": "sha256-dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=",
       "url": "css/app.css"
     },
     {

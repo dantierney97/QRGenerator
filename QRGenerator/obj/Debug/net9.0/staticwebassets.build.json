@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VUtpJMjNj4UHIcyNhRnqipPhn3S9l4n/ZqMRW3ObCSo=",
+  "Hash": "KeYB49MiU//yzOiB8mi8eHimmlxryp1yDCwqvtgnGSc=",
   "Source": "QRGenerator",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "bi8mm8nehg",
-      "Integrity": "bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI=",
+      "Fingerprint": "x1q3imph6j",
+      "Integrity": "Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "sif37gb9is",
-      "Integrity": "VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=",
+      "Fingerprint": "49ds5ydtwn",
+      "Integrity": "6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/QRGenerator.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "gye5i57aji",
-      "Integrity": "+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=",
+      "Fingerprint": "ed42102qpt",
+      "Integrity": "Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/webcil/QRGenerator.wasm"
@@ -4427,12 +4427,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-na6df9nfsx.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-czypzps32s.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "QRGenerator#[.{fingerprint=na6df9nfsx}]?.styles.css.gz",
+      "RelativePath": "QRGenerator#[.{fingerprint=czypzps32s}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -4441,8 +4441,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/bundle/QRGenerator.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2sxkoxfc1z",
-      "Integrity": "/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=",
+      "Fingerprint": "u0rzv5emvw",
+      "Integrity": "cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/bundle/QRGenerator.styles.css"
@@ -4679,7 +4679,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/index.html"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-l93961228u.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-av6vvb7wr7.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -4693,8 +4693,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/service-worker/service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "41nmp8ahfa",
-      "Integrity": "6CjKU5LClIzAC44k+Y4oHT5sxdWDfF957cKNbEbrc3c=",
+      "Fingerprint": "cekz7zswhd",
+      "Integrity": "/BqM69zB/mrPC7LgG+aUanbNqPpm74YejJGg9+/cLuk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/service-worker/service-worker-assets.js.build"
@@ -5708,7 +5708,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-8ats43ehrx.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-u9ievitv21.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -7367,12 +7367,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Process.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-xd83rnx73q.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-ymp30ni7t3.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=xd83rnx73q}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=ymp30ni7t3}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7381,8 +7381,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/css/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ykf6wx8uj4",
-      "Integrity": "nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g=",
+      "Fingerprint": "lc82yvspl8",
+      "Integrity": "Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/css/app.css"
@@ -8333,12 +8333,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.IO.Compression.Brotli.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-na6df9nfsx.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-czypzps32s.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "QRGenerator#[.{fingerprint=na6df9nfsx}]!.bundle.scp.css.gz",
+      "RelativePath": "QRGenerator#[.{fingerprint=czypzps32s}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -8347,8 +8347,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/projectbundle/QRGenerator.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2sxkoxfc1z",
-      "Integrity": "/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=",
+      "Fingerprint": "u0rzv5emvw",
+      "Integrity": "cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/projectbundle/QRGenerator.bundle.scp.css"
@@ -8522,12 +8522,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-sif37gb9is.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-49ds5ydtwn.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/QRGenerator#[.{fingerprint=sif37gb9is}]!.pdb.gz",
+      "RelativePath": "_framework/QRGenerator#[.{fingerprint=49ds5ydtwn}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8536,8 +8536,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8nxv78e6ry",
-      "Integrity": "FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w=",
+      "Fingerprint": "3ih67x8heh",
+      "Integrity": "5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb"
@@ -8648,12 +8648,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.Calendars.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-gye5i57aji.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-ed42102qpt.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/QRGenerator#[.{fingerprint=gye5i57aji}]!.wasm.gz",
+      "RelativePath": "_framework/QRGenerator#[.{fingerprint=ed42102qpt}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "t2ubjwvgrm",
-      "Integrity": "+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E=",
+      "Fingerprint": "s7kaposrk3",
+      "Integrity": "2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm"
@@ -8963,7 +8963,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-bi8mm8nehg.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-x1q3imph6j.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -8977,8 +8977,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qzsureugo5",
-      "Integrity": "uj7dJIighkyJqOPX4axclfOxAvP4s6kWcsMRH5QAyaM=",
+      "Fingerprint": "lh92e8z0kg",
+      "Integrity": "ibqwtHqsNQVPj6fQOrZerYYXD6zHxoe7+4Qnc1dypqM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -9691,8 +9691,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "na6df9nfsx",
-      "Integrity": "4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=",
+      "Fingerprint": "czypzps32s",
+      "Integrity": "qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/bundle/QRGenerator.styles.css"
@@ -9712,8 +9712,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "na6df9nfsx",
-      "Integrity": "4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=",
+      "Fingerprint": "czypzps32s",
+      "Integrity": "qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/projectbundle/QRGenerator.bundle.scp.css"
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "l93961228u",
-      "Integrity": "N3166fShR5/ueeMUtt2o6zNR/XOk9ijIVvvaPDMmltw=",
+      "Fingerprint": "av6vvb7wr7",
+      "Integrity": "hi/Od6P4PnJ1lOf1oqjJocH99i9svdiDOSiFf1mSs1U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/service-worker/service-worker-assets.js.build"
@@ -9754,8 +9754,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "8ats43ehrx",
-      "Integrity": "QBM/jWqVsTgovCmx1NiEs6k04AemE7MjZrmhh8BDG7M=",
+      "Fingerprint": "u9ievitv21",
+      "Integrity": "Auv4IEWqaLQ3eJK4ePcNbmm+SeCrKqOguN5LBdYJnwg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot/service-worker.js"
@@ -9775,8 +9775,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xd83rnx73q",
-      "Integrity": "NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=",
+      "Fingerprint": "ymp30ni7t3",
+      "Integrity": "dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/app.css"
@@ -9801,6 +9801,342 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-bold-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cnvxhgzqnq",
+      "Integrity": "eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-bold-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nokx63tt7j",
+      "Integrity": "96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i9rhu3ec0d",
+      "Integrity": "urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hsg9tv70gu",
+      "Integrity": "v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-italic-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mek7l0ayar",
+      "Integrity": "Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-italic-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrta1ignu9",
+      "Integrity": "MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-light-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wzqqho9dc1",
+      "Integrity": "1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-light-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o4ltq34jgz",
+      "Integrity": "yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f4x3296qz1",
+      "Integrity": "kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t56p6bfjyd",
+      "Integrity": "j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-medium-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08oc53g551",
+      "Integrity": "oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-medium-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88yw4l66n9",
+      "Integrity": "uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c35lf9hnak",
+      "Integrity": "+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i2k4zzhfom",
+      "Integrity": "mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-regular-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pw3x7zk512",
+      "Integrity": "9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff"
+    },
+    {
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2",
+      "SourceId": "QRGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Fonts/Tesco Modern/tescomodern-regular-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e2ccr1x52j",
+      "Integrity": "FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"
     },
     {
       "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/icon-192.png",
@@ -10852,11 +11188,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI=\""
+          "Value": "\"Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10866,18 +11202,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI="
+          "Value": "sha256-Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-bi8mm8nehg.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-x1q3imph6j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081234768"
+          "Quality": "0.000081280988"
         }
       ],
       "ResponseHeaders": [
@@ -10887,15 +11223,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12309"
+          "Value": "12302"
         },
         {
           "Name": "ETag",
-          "Value": "\"uj7dJIighkyJqOPX4axclfOxAvP4s6kWcsMRH5QAyaM=\""
+          "Value": "\"ibqwtHqsNQVPj6fQOrZerYYXD6zHxoe7+4Qnc1dypqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:46:14 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10915,19 +11251,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI=\""
+          "Value": "W/\"Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bUWEvIxLmnmmUOkfvEc91+LYJPO+aLmVKfFGBmHvcbI="
+          "Value": "sha256-Wx/ZsqWo9OmlxRPz/EjBZW0ZKyd9Ow1IUXW2tq5lNZY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-bi8mm8nehg.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-x1q3imph6j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10936,7 +11272,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12309"
+          "Value": "12302"
         },
         {
           "Name": "Content-Type",
@@ -10944,11 +11280,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uj7dJIighkyJqOPX4axclfOxAvP4s6kWcsMRH5QAyaM=\""
+          "Value": "\"ibqwtHqsNQVPj6fQOrZerYYXD6zHxoe7+4Qnc1dypqM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:46:14 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10966,7 +11302,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uj7dJIighkyJqOPX4axclfOxAvP4s6kWcsMRH5QAyaM="
+          "Value": "sha256-ibqwtHqsNQVPj6fQOrZerYYXD6zHxoe7+4Qnc1dypqM="
         }
       ]
     },
@@ -22432,168 +22768,7 @@
       ]
     },
     {
-      "Route": "_framework/QRGenerator.gye5i57aji.wasm",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17685"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gye5i57aji"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.gye5i57aji.wasm",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-gye5i57aji.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000129903871"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7697"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gye5i57aji"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.gye5i57aji.wasm.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-gye5i57aji.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gye5i57aji"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.pdb",
+      "Route": "_framework/QRGenerator.49ds5ydtwn.pdb",
       "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22603,7 +22778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24116"
+          "Value": "24396"
         },
         {
           "Name": "Content-Type",
@@ -22611,148 +22786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=\""
+          "Value": "\"6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-sif37gb9is.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000056976810"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17550"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.pdb.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-sif37gb9is.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17550"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.sif37gb9is.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24116"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22762,7 +22800,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sif37gb9is"
+          "Value": "49ds5ydtwn"
         },
         {
           "Name": "label",
@@ -22770,18 +22808,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250="
+          "Value": "sha256-6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM="
         }
       ]
     },
     {
-      "Route": "_framework/QRGenerator.sif37gb9is.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-sif37gb9is.gz",
+      "Route": "_framework/QRGenerator.49ds5ydtwn.pdb",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-49ds5ydtwn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056976810"
+          "Quality": "0.000056173464"
         }
       ],
       "ResponseHeaders": [
@@ -22791,15 +22829,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17550"
+          "Value": "17801"
         },
         {
           "Name": "ETag",
-          "Value": "\"FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w=\""
+          "Value": "\"5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22819,13 +22857,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250=\""
+          "Value": "W/\"6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sif37gb9is"
+          "Value": "49ds5ydtwn"
         },
         {
           "Name": "label",
@@ -22833,13 +22871,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VAhIhl/z3AprmkP12ri6kU9sHETrbYDwyR3W9RRr250="
+          "Value": "sha256-6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM="
         }
       ]
     },
     {
-      "Route": "_framework/QRGenerator.sif37gb9is.pdb.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-sif37gb9is.gz",
+      "Route": "_framework/QRGenerator.49ds5ydtwn.pdb.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-49ds5ydtwn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22848,7 +22886,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17550"
+          "Value": "17801"
         },
         {
           "Name": "Content-Type",
@@ -22856,11 +22894,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w=\""
+          "Value": "\"5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22878,7 +22916,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sif37gb9is"
+          "Value": "49ds5ydtwn"
         },
         {
           "Name": "label",
@@ -22886,7 +22924,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FKMaczD2L7RUwIzydlsGkm4ZM+kwdVYtuvzKJnEol3w="
+          "Value": "sha256-5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.ed42102qpt.wasm",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ed42102qpt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.ed42102qpt.wasm",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-ed42102qpt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000128238010"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ed42102qpt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.ed42102qpt.wasm.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-ed42102qpt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7797"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ed42102qpt"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.pdb",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.pdb",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-49ds5ydtwn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000056173464"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17801"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NBUGn8BVGbtZ9uGa50hXDsQCX0G6daq+ChNiUGqyKM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.pdb.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-49ds5ydtwn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RbcFt8FcmHFs/phllRgviOzhn5Ic6AUsNtRQyvLO68="
         }
       ]
     },
@@ -22901,7 +23237,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17685"
+          "Value": "18197"
         },
         {
           "Name": "Content-Type",
@@ -22909,11 +23245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=\""
+          "Value": "\"Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22923,18 +23259,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ="
+          "Value": "sha256-Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.wasm",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-gye5i57aji.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-ed42102qpt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000129903871"
+          "Quality": "0.000128238010"
         }
       ],
       "ResponseHeaders": [
@@ -22944,15 +23280,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7697"
+          "Value": "7797"
         },
         {
           "Name": "ETag",
-          "Value": "\"+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E=\""
+          "Value": "\"2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22972,19 +23308,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ=\""
+          "Value": "W/\"Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+FB5+D4iXk9YUhS8RcZ7v4WwOeQGbPavUztt2syYOXQ="
+          "Value": "sha256-Xjyn/9hpz9aOYgxC+Xug2u8zmrwy0hoEMLr0F51Y1yM="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.wasm.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-gye5i57aji.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-ed42102qpt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22993,7 +23329,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7697"
+          "Value": "7797"
         },
         {
           "Name": "Content-Type",
@@ -23001,11 +23337,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E=\""
+          "Value": "\"2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:44:43 GMT"
+          "Value": "Mon, 09 Dec 2024 12:28:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23023,7 +23359,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+y8yqqqc2Pq3nPKbWwchwbF0MFaUReHv9ENpOGq5D4E="
+          "Value": "sha256-2B1uK3ZKo60Fl38gbLvmrUV7PahlKVDO3r6LGBtcfFQ="
         }
       ]
     },
@@ -71305,12 +71641,12 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-xd83rnx73q.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-ymp30ni7t3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000494804552"
+          "Quality": "0.000451671183"
         }
       ],
       "ResponseHeaders": [
@@ -71320,15 +71656,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2020"
+          "Value": "2213"
         },
         {
           "Name": "ETag",
-          "Value": "\"nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g=\""
+          "Value": "\"Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71348,13 +71684,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\""
+          "Value": "W/\"dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="
+          "Value": "sha256-dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E="
         }
       ]
     },
@@ -71369,7 +71705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4038"
+          "Value": "6300"
         },
         {
           "Name": "Content-Type",
@@ -71377,11 +71713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\""
+          "Value": "\"dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71391,13 +71727,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="
+          "Value": "sha256-dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-xd83rnx73q.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-ymp30ni7t3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71406,7 +71742,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2020"
+          "Value": "2213"
         },
         {
           "Name": "Content-Type",
@@ -71414,11 +71750,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g=\""
+          "Value": "\"Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71436,18 +71772,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g="
+          "Value": "sha256-Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw="
         }
       ]
     },
     {
-      "Route": "css/app.xd83rnx73q.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-xd83rnx73q.gz",
+      "Route": "css/app.ymp30ni7t3.css",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-ymp30ni7t3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000494804552"
+          "Quality": "0.000451671183"
         }
       ],
       "ResponseHeaders": [
@@ -71457,15 +71793,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2020"
+          "Value": "2213"
         },
         {
           "Name": "ETag",
-          "Value": "\"nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g=\""
+          "Value": "\"Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71485,13 +71821,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\""
+          "Value": "W/\"dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xd83rnx73q"
+          "Value": "ymp30ni7t3"
         },
         {
           "Name": "label",
@@ -71499,12 +71835,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="
+          "Value": "sha256-dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E="
         }
       ]
     },
     {
-      "Route": "css/app.xd83rnx73q.css",
+      "Route": "css/app.ymp30ni7t3.css",
       "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/css/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71514,7 +71850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4038"
+          "Value": "6300"
         },
         {
           "Name": "Content-Type",
@@ -71522,11 +71858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\""
+          "Value": "\"dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71536,7 +71872,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xd83rnx73q"
+          "Value": "ymp30ni7t3"
         },
         {
           "Name": "label",
@@ -71544,13 +71880,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="
+          "Value": "sha256-dr+8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR+xdY7E="
         }
       ]
     },
     {
-      "Route": "css/app.xd83rnx73q.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-xd83rnx73q.gz",
+      "Route": "css/app.ymp30ni7t3.css.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/l0c3dhario-ymp30ni7t3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71559,7 +71895,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2020"
+          "Value": "2213"
         },
         {
           "Name": "Content-Type",
@@ -71567,11 +71903,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g=\""
+          "Value": "\"Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 15:54:47 GMT"
+          "Value": "Mon, 09 Dec 2024 12:25:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71589,7 +71925,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xd83rnx73q"
+          "Value": "ymp30ni7t3"
         },
         {
           "Name": "label",
@@ -71597,7 +71933,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nidhO0lVKx6+qEZri/a/U0EfcY9bUwLyFpXYOawf39g="
+          "Value": "sha256-Oyt+ZKbdJJ7cHHlYPVkbIxbf+i3HlDPQwJztgTeaRFw="
         }
       ]
     },
@@ -71680,6 +72016,1318 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bold-webfont.cnvxhgzqnq.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnvxhgzqnq"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bold-webfont.nokx63tt7j.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nokx63tt7j"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bold-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bold-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.hsg9tv70gu.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hsg9tv70gu"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.i9rhu3ec0d.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9rhu3ec0d"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-urHwmhYP7ZzUXzTy+CabHX8utGL2Yp5TV1vbBCd86bs="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-italic-webfont.lrta1ignu9.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrta1ignu9"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-italic-webfont.mek7l0ayar.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mek7l0ayar"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28+nHpg="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-italic-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-italic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-light-webfont.o4ltq34jgz.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o4ltq34jgz"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-light-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-light-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-light-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-light-webfont.wzqqho9dc1.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-light-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wzqqho9dc1"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-light-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BPZNJxRO+HcRPCl0Q94KHP13AWJ5DB4tUidfe2+vqY="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.f4x3296qz1.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f4x3296qz1"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.t56p6bfjyd.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t56p6bfjyd"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kU9WKeqYo1/pPl6g+WZHY9DrO8+uM6KS9EMCA/MEIBw="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-medium-webfont.08oc53g551.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08oc53g551"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-medium-webfont.88yw4l66n9.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88yw4l66n9"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-medium-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-medium-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uLLnPx60FtueC8d+c34UxIlw0sgWZUoYHCuU7dRuLSI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.c35lf9hnak.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c35lf9hnak"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.i2k4zzhfom.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i2k4zzhfom"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+O8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mn3utoAVRfE/3EaGCVLzT8NOY26y+JRc2d0kfieN/zI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-regular-webfont.e2ccr1x52j.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2ccr1x52j"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-regular-webfont.pw3x7zk512.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pw3x7zk512"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c+8s="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff2",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/Fonts/Tesco Modern/tescomodern-regular-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 07:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrethKBzxYRhZJXayzmP+8mtqFuDyffMs/QOjHoUHmI="
         }
       ]
     },
@@ -85557,12 +87205,12 @@
     },
     {
       "Route": "QRGenerator.bundle.scp.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-na6df9nfsx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-czypzps32s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000683994528"
+          "Quality": "0.000610873549"
         }
       ],
       "ResponseHeaders": [
@@ -85572,15 +87220,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85600,13 +87248,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "W/\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
@@ -85621,7 +87269,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4759"
+          "Value": "5399"
         },
         {
           "Name": "Content-Type",
@@ -85629,11 +87277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85643,13 +87291,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
       "Route": "QRGenerator.bundle.scp.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-na6df9nfsx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-czypzps32s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85658,7 +87306,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "Content-Type",
@@ -85666,11 +87314,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85688,18 +87336,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo="
+          "Value": "sha256-cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.bundle.scp.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-na6df9nfsx.gz",
+      "Route": "QRGenerator.czypzps32s.bundle.scp.css",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-czypzps32s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000683994528"
+          "Quality": "0.000610873549"
         }
       ],
       "ResponseHeaders": [
@@ -85709,15 +87357,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85737,13 +87385,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "W/\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -85751,12 +87399,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.bundle.scp.css",
+      "Route": "QRGenerator.czypzps32s.bundle.scp.css",
       "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/projectbundle/QRGenerator.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85766,7 +87414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4759"
+          "Value": "5399"
         },
         {
           "Name": "Content-Type",
@@ -85774,11 +87422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85788,7 +87436,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -85796,13 +87444,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.bundle.scp.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-na6df9nfsx.gz",
+      "Route": "QRGenerator.czypzps32s.bundle.scp.css.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/q00atrubcs-czypzps32s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85811,7 +87459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "Content-Type",
@@ -85819,11 +87467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85841,7 +87489,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -85849,18 +87497,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo="
+          "Value": "sha256-cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.styles.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-na6df9nfsx.gz",
+      "Route": "QRGenerator.czypzps32s.styles.css",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-czypzps32s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000683994528"
+          "Quality": "0.000610873549"
         }
       ],
       "ResponseHeaders": [
@@ -85870,15 +87518,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85898,13 +87546,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "W/\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -85912,12 +87560,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.styles.css",
+      "Route": "QRGenerator.czypzps32s.styles.css",
       "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/scopedcss/bundle/QRGenerator.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85927,7 +87575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4759"
+          "Value": "5399"
         },
         {
           "Name": "Content-Type",
@@ -85935,11 +87583,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85949,7 +87597,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -85957,13 +87605,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
-      "Route": "QRGenerator.na6df9nfsx.styles.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-na6df9nfsx.gz",
+      "Route": "QRGenerator.czypzps32s.styles.css.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-czypzps32s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85972,7 +87620,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "Content-Type",
@@ -85980,11 +87628,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86002,7 +87650,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "na6df9nfsx"
+          "Value": "czypzps32s"
         },
         {
           "Name": "label",
@@ -86010,18 +87658,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo="
+          "Value": "sha256-cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg="
         }
       ]
     },
     {
       "Route": "QRGenerator.styles.css",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-na6df9nfsx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-czypzps32s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000683994528"
+          "Quality": "0.000610873549"
         }
       ],
       "ResponseHeaders": [
@@ -86031,15 +87679,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86059,13 +87707,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "W/\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
@@ -86080,7 +87728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4759"
+          "Value": "5399"
         },
         {
           "Name": "Content-Type",
@@ -86088,11 +87736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\""
+          "Value": "\"qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86102,13 +87750,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="
+          "Value": "sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT+JpAZap5Egqyc="
         }
       ]
     },
     {
       "Route": "QRGenerator.styles.css.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-na6df9nfsx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/1ks1apqkpw-czypzps32s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86117,7 +87765,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1461"
+          "Value": "1636"
         },
         {
           "Name": "Content-Type",
@@ -86125,11 +87773,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo=\""
+          "Value": "\"cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86147,7 +87795,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/uvQ+n8A3sabP9k3MoQzCv5ZcF3iCptRdPYQJjM6Kfo="
+          "Value": "sha256-cnnb7F5V91DdsxidvBw3oeJICEIw1hlexYO2oou54Wg="
         }
       ]
     },
@@ -86451,12 +88099,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-l93961228u.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-av6vvb7wr7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079051383"
+          "Quality": "0.000075120192"
         }
       ],
       "ResponseHeaders": [
@@ -86466,15 +88114,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12649"
+          "Value": "13311"
         },
         {
           "Name": "ETag",
-          "Value": "\"6CjKU5LClIzAC44k+Y4oHT5sxdWDfF957cKNbEbrc3c=\""
+          "Value": "\"/BqM69zB/mrPC7LgG+aUanbNqPpm74YejJGg9+/cLuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86494,13 +88142,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N3166fShR5/ueeMUtt2o6zNR/XOk9ijIVvvaPDMmltw=\""
+          "Value": "W/\"hi/Od6P4PnJ1lOf1oqjJocH99i9svdiDOSiFf1mSs1U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N3166fShR5/ueeMUtt2o6zNR/XOk9ijIVvvaPDMmltw="
+          "Value": "sha256-hi/Od6P4PnJ1lOf1oqjJocH99i9svdiDOSiFf1mSs1U="
         }
       ]
     },
@@ -86515,7 +88163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37868"
+          "Value": "40270"
         },
         {
           "Name": "Content-Type",
@@ -86523,11 +88171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N3166fShR5/ueeMUtt2o6zNR/XOk9ijIVvvaPDMmltw=\""
+          "Value": "\"hi/Od6P4PnJ1lOf1oqjJocH99i9svdiDOSiFf1mSs1U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86537,13 +88185,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N3166fShR5/ueeMUtt2o6zNR/XOk9ijIVvvaPDMmltw="
+          "Value": "sha256-hi/Od6P4PnJ1lOf1oqjJocH99i9svdiDOSiFf1mSs1U="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-l93961228u.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-av6vvb7wr7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86552,7 +88200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12649"
+          "Value": "13311"
         },
         {
           "Name": "Content-Type",
@@ -86560,11 +88208,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6CjKU5LClIzAC44k+Y4oHT5sxdWDfF957cKNbEbrc3c=\""
+          "Value": "\"/BqM69zB/mrPC7LgG+aUanbNqPpm74YejJGg9+/cLuk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86582,13 +88230,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6CjKU5LClIzAC44k+Y4oHT5sxdWDfF957cKNbEbrc3c="
+          "Value": "sha256-/BqM69zB/mrPC7LgG+aUanbNqPpm74YejJGg9+/cLuk="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-8ats43ehrx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-u9ievitv21.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -86611,7 +88259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86631,13 +88279,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QBM/jWqVsTgovCmx1NiEs6k04AemE7MjZrmhh8BDG7M=\""
+          "Value": "W/\"Auv4IEWqaLQ3eJK4ePcNbmm+SeCrKqOguN5LBdYJnwg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QBM/jWqVsTgovCmx1NiEs6k04AemE7MjZrmhh8BDG7M="
+          "Value": "sha256-Auv4IEWqaLQ3eJK4ePcNbmm+SeCrKqOguN5LBdYJnwg="
         }
       ]
     },
@@ -86660,7 +88308,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QBM/jWqVsTgovCmx1NiEs6k04AemE7MjZrmhh8BDG7M=\""
+          "Value": "\"Auv4IEWqaLQ3eJK4ePcNbmm+SeCrKqOguN5LBdYJnwg=\""
         },
         {
           "Name": "Last-Modified",
@@ -86674,13 +88322,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QBM/jWqVsTgovCmx1NiEs6k04AemE7MjZrmhh8BDG7M="
+          "Value": "sha256-Auv4IEWqaLQ3eJK4ePcNbmm+SeCrKqOguN5LBdYJnwg="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-8ats43ehrx.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-u9ievitv21.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86701,7 +88349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Dec 2024 16:51:33 GMT"
+          "Value": "Mon, 09 Dec 2024 12:29:23 GMT"
         },
         {
           "Name": "Cache-Control",

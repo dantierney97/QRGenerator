@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="css/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4038"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:54:47 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dr\u002B8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR\u002BxdY7E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6300"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dr\u002B8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR\u002BxdY7E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 12:25:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="css/app.xd83rnx73q.css">
+    <StaticWebAssetEndpoint Include="css/app.ymp30ni7t3.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xd83rnx73q"},{"Name":"integrity","Value":"sha256-NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE="},{"Name":"label","Value":"css/app.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4038"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NdR6BBtG0A492/UR/PUoJ0g3Y19lJ4fdogIrJWMC6TE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:54:47 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ymp30ni7t3"},{"Name":"integrity","Value":"sha256-dr\u002B8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR\u002BxdY7E="},{"Name":"label","Value":"css/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6300"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dr\u002B8xKlS8o25yeYLhsLZ4nlt8RZLA8eQujxVR\u002BxdY7E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 12:25:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
@@ -23,6 +23,198 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:54:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bold-webfont.cnvxhgzqnq.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bold-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cnvxhgzqnq"},{"Name":"integrity","Value":"sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-bold-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26784"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bold-webfont.nokx63tt7j.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bold-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nokx63tt7j"},{"Name":"integrity","Value":"sha256-96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-bold-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20024"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u002296gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bold-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bold-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26784"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bold-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bold-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-96gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20024"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u002296gmSn2bgeRNKIA1wcISTVnYFVW5pWggYKyc/V80uPI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bolditalic-webfont.hsg9tv70gu.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bolditalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hsg9tv70gu"},{"Name":"integrity","Value":"sha256-v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21244"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bolditalic-webfont.i9rhu3ec0d.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bolditalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i9rhu3ec0d"},{"Name":"integrity","Value":"sha256-urHwmhYP7ZzUXzTy\u002BCabHX8utGL2Yp5TV1vbBCd86bs="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28240"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022urHwmhYP7ZzUXzTy\u002BCabHX8utGL2Yp5TV1vbBCd86bs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bolditalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-urHwmhYP7ZzUXzTy\u002BCabHX8utGL2Yp5TV1vbBCd86bs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28240"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022urHwmhYP7ZzUXzTy\u002BCabHX8utGL2Yp5TV1vbBCd86bs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-bolditalic-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-bolditalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21244"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022v7kWR5NsX3DBN02vUtGxV5Wwlsxgc6lbZ7iqdxKnzrU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-italic-webfont.lrta1ignu9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-italic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lrta1ignu9"},{"Name":"integrity","Value":"sha256-MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-italic-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22228"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-italic-webfont.mek7l0ayar.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-italic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mek7l0ayar"},{"Name":"integrity","Value":"sha256-Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28\u002BnHpg="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-italic-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29344"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28\u002BnHpg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-italic-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-italic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28\u002BnHpg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"29344"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022Driw6X3mAF0UIsAgDKCSCrc8BJ0UT/Jio0HE28\u002BnHpg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-italic-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-italic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22228"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022MZ6roFIPqMgRTZb4gI6bSpX6mrO5x/PIiBKMygBqup0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-light-webfont.o4ltq34jgz.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-light-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o4ltq34jgz"},{"Name":"integrity","Value":"sha256-yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-light-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19284"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-light-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-light-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1BPZNJxRO\u002BHcRPCl0Q94KHP13AWJ5DB4tUidfe2\u002BvqY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25900"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00221BPZNJxRO\u002BHcRPCl0Q94KHP13AWJ5DB4tUidfe2\u002BvqY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-light-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-light-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19284"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022yKnZSU40YLSFRoyZblo8kkHGdOMF0O6nm9wmKkjFlyg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-light-webfont.wzqqho9dc1.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-light-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wzqqho9dc1"},{"Name":"integrity","Value":"sha256-1BPZNJxRO\u002BHcRPCl0Q94KHP13AWJ5DB4tUidfe2\u002BvqY="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-light-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25900"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00221BPZNJxRO\u002BHcRPCl0Q94KHP13AWJ5DB4tUidfe2\u002BvqY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-lightitalic-webfont.f4x3296qz1.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-lightitalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f4x3296qz1"},{"Name":"integrity","Value":"sha256-kU9WKeqYo1/pPl6g\u002BWZHY9DrO8\u002BuM6KS9EMCA/MEIBw="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28736"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022kU9WKeqYo1/pPl6g\u002BWZHY9DrO8\u002BuM6KS9EMCA/MEIBw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-lightitalic-webfont.t56p6bfjyd.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-lightitalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t56p6bfjyd"},{"Name":"integrity","Value":"sha256-j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21560"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-lightitalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kU9WKeqYo1/pPl6g\u002BWZHY9DrO8\u002BuM6KS9EMCA/MEIBw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28736"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022kU9WKeqYo1/pPl6g\u002BWZHY9DrO8\u002BuM6KS9EMCA/MEIBw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-lightitalic-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-lightitalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21560"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022j5K4i7D7tsyhTbLc1U6g3wiR8U8pzc5reRVmNMUTUcA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-medium-webfont.08oc53g551.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-medium-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"08oc53g551"},{"Name":"integrity","Value":"sha256-oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-medium-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27488"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-medium-webfont.88yw4l66n9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-medium-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"88yw4l66n9"},{"Name":"integrity","Value":"sha256-uLLnPx60FtueC8d\u002Bc34UxIlw0sgWZUoYHCuU7dRuLSI="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-medium-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20700"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022uLLnPx60FtueC8d\u002Bc34UxIlw0sgWZUoYHCuU7dRuLSI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-medium-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-medium-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27488"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oFYKm7KNq4hb2AqNXAktnjhFCKNQoAozLmmi9KC1SSQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-medium-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-medium-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uLLnPx60FtueC8d\u002Bc34UxIlw0sgWZUoYHCuU7dRuLSI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20700"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022uLLnPx60FtueC8d\u002Bc34UxIlw0sgWZUoYHCuU7dRuLSI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.c35lf9hnak.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-mediumitalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c35lf9hnak"},{"Name":"integrity","Value":"sha256-\u002BO8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29436"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BO8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.i2k4zzhfom.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-mediumitalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i2k4zzhfom"},{"Name":"integrity","Value":"sha256-mn3utoAVRfE/3EaGCVLzT8NOY26y\u002BJRc2d0kfieN/zI="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22140"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022mn3utoAVRfE/3EaGCVLzT8NOY26y\u002BJRc2d0kfieN/zI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-mediumitalic-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BO8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"29436"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BO8eRNQs5HmSbMNvWgrr9BmYqqA1exm1fn8jEN7BDRs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-mediumitalic-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-mediumitalic-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mn3utoAVRfE/3EaGCVLzT8NOY26y\u002BJRc2d0kfieN/zI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22140"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022mn3utoAVRfE/3EaGCVLzT8NOY26y\u002BJRc2d0kfieN/zI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-regular-webfont.e2ccr1x52j.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-regular-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e2ccr1x52j"},{"Name":"integrity","Value":"sha256-FrethKBzxYRhZJXayzmP\u002B8mtqFuDyffMs/QOjHoUHmI="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20748"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022FrethKBzxYRhZJXayzmP\u002B8mtqFuDyffMs/QOjHoUHmI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-regular-webfont.pw3x7zk512.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-regular-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pw3x7zk512"},{"Name":"integrity","Value":"sha256-9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c\u002B8s="},{"Name":"label","Value":"Fonts/Tesco Modern/tescomodern-regular-webfont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27480"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00229xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c\u002B8s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-regular-webfont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-regular-webfont.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c\u002B8s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"27480"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u00229xozESNk0OjOonpL0yXF19cZbKTaTDhSJHVWL13c\u002B8s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="Fonts/Tesco Modern/tescomodern-regular-webfont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fonts\Tesco Modern\tescomodern-regular-webfont.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FrethKBzxYRhZJXayzmP\u002B8mtqFuDyffMs/QOjHoUHmI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20748"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022FrethKBzxYRhZJXayzmP\u002B8mtqFuDyffMs/QOjHoUHmI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 07:19:36 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="icon-192.f9uvjujlxy.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icon-192.png'))</AssetFile>
@@ -600,17 +792,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ipFJAQ1tDw2c2bvuUlU2vBoRrlTRH4As1PlHIQ57Q0M="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"427"},{"Name":"Content-Type","Value":"application/manifest\u002Bjson"},{"Name":"ETag","Value":"\u0022ipFJAQ1tDw2c2bvuUlU2vBoRrlTRH4As1PlHIQ57Q0M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 15:54:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="QRGenerator.na6df9nfsx.styles.css">
+    <StaticWebAssetEndpoint Include="QRGenerator.czypzps32s.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\QRGenerator.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"na6df9nfsx"},{"Name":"integrity","Value":"sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="},{"Name":"label","Value":"QRGenerator.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4759"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 16:51:33 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"czypzps32s"},{"Name":"integrity","Value":"sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT\u002BJpAZap5Egqyc="},{"Name":"label","Value":"QRGenerator.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5399"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qPs/8AWCS5vbQbJiZcDmU4M5rocNvT\u002BJpAZap5Egqyc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 12:29:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="QRGenerator.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\QRGenerator.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4759"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224TuW27o9acfKBHUrov0UqutiIdXOOPjIwq/R6Fq3anE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 16:51:33 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qPs/8AWCS5vbQbJiZcDmU4M5rocNvT\u002BJpAZap5Egqyc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5399"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qPs/8AWCS5vbQbJiZcDmU4M5rocNvT\u002BJpAZap5Egqyc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 12:29:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/weather.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</AssetFile>

@@ -1,13 +1,43 @@
-h2[b-ugd4ksu6yr] {
-    color: red;
-}
-.headerSection[b-ugd4ksu6yr] {
-    font-size: 12px;
-}
-
 header[b-ugd4ksu6yr] {
     width: calc(100vw - 250px);
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid red;
+}
+
+h1[b-ugd4ksu6yr] {
+    font-family: tesco_modernregular, sans-serif;
+}
+
+#logo[b-ugd4ksu6yr] {
+    width: 50px;
+    height: 50px;
+}
+#logoDiv[b-ugd4ksu6yr] {
+    width: 70px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#companyName[b-ugd4ksu6yr] {
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.centre[b-ugd4ksu6yr] {
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'tesco_modernregular';
+    src: url('./Fonts/Tesco Modern/tescomodern-regular-webfont.woff2') format('woff2'),
+    url('./Fonts/Tesco Modern/tescomodern-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
