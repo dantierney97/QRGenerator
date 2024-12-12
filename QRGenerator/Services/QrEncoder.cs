@@ -1,13 +1,13 @@
-using System.Drawing;
+using SkiaSharp;
 using System;
 
 namespace QRGenerator.Services;
 
 public class QrEncoder
 {
-    private const int moduleSize = 10; // Size of each square in the QR Code
+    private const int ModuleSize = 10; // Size of each square in the QR Code
 
-    public Bitmap GenerateQRCode(string content)
+    public SKBitmap GenerateQRCode(string content)
     {
         if (string.IsNullOrWhiteSpace(content))
         {
@@ -31,6 +31,10 @@ public class QrEncoder
         
         // Insert the data into the matrix
         InsertDataIntoMatrix(matrix, binaryData);
+        
+        // Render and return the Generated QR Code as an image
+        return RenderMatrix(matrix);
+        
     }
     
     // Method for adding finder patters to the matrix
@@ -87,5 +91,33 @@ public class QrEncoder
                 }
             }
         }
+    }
+    
+    private SKBitmap RenderMatrix(bool[,] matrix)
+    {
+        int size = matrix.GetLength(0);
+        int imageSize = size * ModuleSize;
+
+        // Create a new SKBitmap (bitmap object for SkiaSharp)
+        SKBitmap bitmap = new SKBitmap(imageSize, imageSize);
+
+        using (SKCanvas canvas = new SKCanvas(bitmap))
+        {
+            canvas.Clear(SKColors.White); // Background is white
+
+            // Draw each module (square) in the matrix
+            for (int row = 0; row < size; row++)
+            {
+                for (int col = 0; col < size; col++)
+                {
+                    if (matrix[row, col]) // If the matrix value is true (black module)
+                    {
+                        canvas.DrawRect(col * ModuleSize, row * ModuleSize, ModuleSize, ModuleSize, new SKPaint { Color = SKColors.Black });
+                    }
+                }
+            }
+        }
+
+        return bitmap;
     }
 }
