@@ -25,6 +25,9 @@ public class QrEncoder
         
         // Add timing patters
         AddTimingPatterns(matrix, matrixSize);
+        
+        // Encode the data into binary
+        string binaryData = StringToBinary(content);
     }
     
     // Method for adding finder patters to the matrix
@@ -48,5 +51,11 @@ public class QrEncoder
             // Vertical line
             matrix[i, 6] = i % 2 == 0;
         }
+    }
+    
+    private string StringToBinary(string input)
+    {
+        byte[] bytes = System.Text.Encoding.ASCII.GetBytes(input);
+        return string.Join(string.Empty, Array.ConvertAll(bytes, b => Convert.ToString(b, 2).PadLeft(8, '0')));
     }
 }
