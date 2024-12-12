@@ -22,6 +22,9 @@ public class QrEncoder
         AddFinderPattern(matrix, 0, 0);
         AddFinderPattern(matrix, matrixSize - 7, 0);
         AddFinderPattern(matrix, 0, matrixSize - 7);
+        
+        // Add timing patters
+        AddTimingPatterns(matrix, matrixSize);
     }
     
     // Method for adding finder patters to the matrix
@@ -33,6 +36,17 @@ public class QrEncoder
             {
                 matrix[startX + i, startY + j] = (i == 0 || i == 6 || j == 0 || j == 6 || (i >= 2 && i <= 4 && j >= 2 && j <= 4));
             }
+        }
+    }
+    
+    private void AddTimingPatterns(bool[,] matrix, int size)
+    {
+        for (int i = 8; i < size - 8; i++)
+        {
+            // Horizontal line
+            matrix[6, i] = i % 2 == 0;
+            // Vertical line
+            matrix[i, 6] = i % 2 == 0;
         }
     }
 }
