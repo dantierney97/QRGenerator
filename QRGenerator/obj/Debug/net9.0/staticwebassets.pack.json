@@ -93,6 +93,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/js/qrScript.js",
+      "PackagePath": "staticwebassets/js/qrScript.js"
+    },
+    {
       "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },

@@ -1,6 +1,28 @@
 ﻿@page "/"
+@inject IJSRuntime JSRuntime
+
+
+<script src="https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js"></script>
+<script src="js/qrScript.js"></script>
 
 <PageTitle>Home</PageTitle>
-<body>
-<p> Welcome to the QR Generator</p>
-</body>
+
+<p>Welcome to the QR Generator</p>
+
+<h3>QR Code Generator</h3>
+
+<input @bind="qrContent" placeholder="Enter text to encode" />
+
+<button @onclick="GenerateQRCode">Generate QR Code</button>
+
+<canvas id="qrCanvas" width="177" height="177"></canvas>
+
+@code {
+    private string qrContent;
+
+    private async Task GenerateQRCode()
+    {
+        // Call JS function to generate QR code and render on the canvas
+        await JSRuntime.InvokeVoidAsync("generateQRCode", qrContent, "qrCanvas");
+    }
+}
