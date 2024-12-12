@@ -28,6 +28,9 @@ public class QrEncoder
         
         // Encode the data into binary
         string binaryData = StringToBinary(content);
+        
+        // Insert the data into the matrix
+        InsertDataIntoMatrix(matrix, binaryData);
     }
     
     // Method for adding finder patters to the matrix
@@ -57,5 +60,32 @@ public class QrEncoder
     {
         byte[] bytes = System.Text.Encoding.ASCII.GetBytes(input);
         return string.Join(string.Empty, Array.ConvertAll(bytes, b => Convert.ToString(b, 2).PadLeft(8, '0')));
+    }
+    
+    private void InsertDataIntoMatrix(bool[,] matrix, string binaryData)
+    {
+        int size = matrix.GetLength(0);
+        int dataIndex = 0;
+
+        // Insert data in a zigzag pattern from bottom-right
+        for (int col = size - 1; col > 0; col -= 2)
+        {
+            if (col == 6) col--; // Skip the timing pattern column
+
+            for (int row = size - 1; row >= 0; row--)
+            {
+                for (int j = 0; j < 2; j++) // Two columns per step
+                {
+                    int currentCol = col - j;
+                    if (matrix[row, currentCol]) continue; // Skip reserved areas
+
+                    if (dataIndex < binaryData.Length)
+                    {
+                        matrix[row, currentCol] = binaryData[dataIndex] == '1';
+                        dataIndex++;
+                    }
+                }
+            }
+        }
     }
 }
