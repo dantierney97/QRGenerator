@@ -4,6 +4,8 @@ header[b-ugd4ksu6yr] {
     margin-left: auto;
     margin-right: auto;
     position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h1[b-ugd4ksu6yr] {
@@ -20,14 +22,12 @@ h1[b-ugd4ksu6yr] {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    border: 1px solid black;
 }
 
 #companyName[b-ugd4ksu6yr] {
     width: auto;
     margin-right: auto;
     margin-left: auto;
-    border: 1px solid black;
     padding: 10px;
 }
 

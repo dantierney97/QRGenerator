@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ge3z0ku0yk</Fingerprint>
-      <Integrity>+KujNa2+nfEMarJFEvdGUHLZ5owULagr2GVN21v3vdY=</Integrity>
+      <Fingerprint>js3czm43r6</Fingerprint>
+      <Integrity>M7ntBbJK7/ZbCUDe7fntcSBkRi9t8xxuRFKOthJaL0g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -1200,8 +1200,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>dy5gorb84p</Fingerprint>
-      <Integrity>JZbhFlDu9IsYDx4efv/WRpM7Uf4jc0Y9BV+Gv4MsyCI=</Integrity>
+      <Fingerprint>s8htrjpni1</Fingerprint>
+      <Integrity>dIw27aRT3hS/Bb8Vd1+5lWrV3t2KUYI2tSVv/B9WPUU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\QRGenerator.styles.css'))</OriginalItemSpec>
