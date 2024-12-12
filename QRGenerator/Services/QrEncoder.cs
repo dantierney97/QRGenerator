@@ -1,11 +1,13 @@
 using SkiaSharp;
-using System;
+using ZXing;
+using ZXing.QrCode.Internal;
 
 namespace QRGenerator.Services;
 
 public class QrEncoder
 {
-    private const int ModuleSize = 10; // Size of each square in the QR Code
+    
+    ErrorCorrectionLevel _errorLevel = ErrorCorrectionLevel.H;
 
     public SKBitmap GenerateQRCode(string content)
     {
@@ -14,110 +16,20 @@ public class QrEncoder
             throw new ArgumentException("Input cannot be null or whitespace", nameof(content));
         }
 
-        int matrixSize = 177; // Sets the size of the QR Code. This uses Ver.44 of the Qr Standard
-        
-        bool[,] matrix = new bool[matrixSize, matrixSize]; // Initialise the matrix
-        
-        // Adding Finder Patterns
-        AddFinderPattern(matrix, 0, 0);
-        AddFinderPattern(matrix, matrixSize - 7, 0);
-        AddFinderPattern(matrix, 0, matrixSize - 7);
-        
-        // Add timing patters
-        AddTimingPatterns(matrix, matrixSize);
-        
-        // Encode the data into binary
-        string binaryData = StringToBinary(content);
-        
-        // Insert the data into the matrix
-        InsertDataIntoMatrix(matrix, binaryData);
-        
-        // Render and return the Generated QR Code as an image
-        return RenderMatrix(matrix);
-        
-    }
-    
-    // Method for adding finder patters to the matrix
-    private void AddFinderPattern(bool[,] matrix, int startX, int startY)
-    {
-        for (int i = 0; i < 7; i++)
+        // Create a BarcodeWriter instance from ZXing
+        var barcodeWriter = new BarcodeWriter<SKBitmap>
         {
-            for (int j = 0; j < 7; j++)
+            Format = BarcodeFormat.QR_CODE, // QR Code format
+            Options = new ZXing.QrCode.QrCodeEncodingOptions
             {
-                matrix[startX + i, startY + j] = (i == 0 || i == 6 || j == 0 || j == 6 || (i >= 2 && i <= 4 && j >= 2 && j <= 4));
+                Width = 600, 
+                Height = 600,
+                ErrorCorrection = _errorLevel,
+                PureBarcode = true
             }
-        }
-    }
-    
-    private void AddTimingPatterns(bool[,] matrix, int size)
-    {
-        for (int i = 8; i < size - 8; i++)
-        {
-            // Horizontal line
-            matrix[6, i] = i % 2 == 0;
-            // Vertical line
-            matrix[i, 6] = i % 2 == 0;
-        }
-    }
-    
-    private string StringToBinary(string input)
-    {
-        byte[] bytes = System.Text.Encoding.ASCII.GetBytes(input);
-        return string.Join(string.Empty, Array.ConvertAll(bytes, b => Convert.ToString(b, 2).PadLeft(8, '0')));
-    }
-    
-    private void InsertDataIntoMatrix(bool[,] matrix, string binaryData)
-    {
-        int size = matrix.GetLength(0);
-        int dataIndex = 0;
+        };
 
-        // Insert data in a zigzag pattern from bottom-right
-        for (int col = size - 1; col > 0; col -= 2)
-        {
-            if (col == 6) col--; // Skip the timing pattern column
-
-            for (int row = size - 1; row >= 0; row--)
-            {
-                for (int j = 0; j < 2; j++) // Two columns per step
-                {
-                    int currentCol = col - j;
-                    if (matrix[row, currentCol]) continue; // Skip reserved areas
-
-                    if (dataIndex < binaryData.Length)
-                    {
-                        matrix[row, currentCol] = binaryData[dataIndex] == '1';
-                        dataIndex++;
-                    }
-                }
-            }
-        }
-    }
-    
-    private SKBitmap RenderMatrix(bool[,] matrix)
-    {
-        int size = matrix.GetLength(0);
-        int imageSize = size * ModuleSize;
-
-        // Create a new SKBitmap (bitmap object for SkiaSharp)
-        SKBitmap bitmap = new SKBitmap(imageSize, imageSize);
-
-        using (SKCanvas canvas = new SKCanvas(bitmap))
-        {
-            canvas.Clear(SKColors.White); // Background is white
-
-            // Draw each module (square) in the matrix
-            for (int row = 0; row < size; row++)
-            {
-                for (int col = 0; col < size; col++)
-                {
-                    if (matrix[row, col]) // If the matrix value is true (black module)
-                    {
-                        canvas.DrawRect(col * ModuleSize, row * ModuleSize, ModuleSize, ModuleSize, new SKPaint { Color = SKColors.Black });
-                    }
-                }
-            }
-        }
-
-        return bitmap;
+        // Generate the QR Code and return the SKBitmap
+        return barcodeWriter.Write(content);
     }
 }

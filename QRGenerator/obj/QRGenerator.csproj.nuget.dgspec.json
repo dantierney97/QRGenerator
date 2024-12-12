@@ -65,10 +65,6 @@
               "version": "[9.0.0, )",
               "autoReferenced": true
             },
-            "QRCoder": {
-              "target": "Package",
-              "version": "[1.6.0, )"
-            },
             "SkiaSharp": {
               "target": "Package",
               "version": "[3.118.0-preview.2.3, )"
@@ -76,6 +72,10 @@
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.9, )"
             }
           },
           "imports": [
