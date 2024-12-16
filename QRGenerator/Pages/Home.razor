@@ -11,11 +11,22 @@
 
 <h3>QR Code Generator</h3>
 
-<input @bind="qrContent" placeholder="Enter text to encode" />
+<!-- Div to contain the user input and QR Generation sections -->
+<div id="QRGenerator">
+    <!-- Div to contain the user input -->
+    <div id="urlInput">
 
-<button @onclick="GenerateQRCode">Generate QR Code</button>
+        <input @bind="qrContent" placeholder="Enter text to encode"/>
 
-<canvas id="qrCanvas" width="177" height="177"></canvas>
+        <button @onclick="GenerateQRCode">Generate QR Code</button>
+
+    </div>
+    <!-- Div to contain the generated QR code -->
+    <div id="generatedQR">
+        <canvas id="qrCanvas" width="177" height="177"></canvas>
+    </div>
+    
+</div>
 
 @code {
     private string qrContent;
