@@ -13,7 +13,7 @@ window.generateQRCode = (content, canvasId) => {
     }
 
     // Generate the QR code using qrcode.js
-    QRCode.toCanvas(canvas, content, { width: 177, margin: 10 }, function (error) {
+    QRCode.toCanvas(canvas, content, { width: 350, margin: 1 }, function (error) {
         if (error) {
             console.error("Error generating QR code:", error);
         }

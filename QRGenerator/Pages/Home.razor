@@ -17,14 +17,14 @@
     <!-- Div to contain the user input -->
     <div id="urlInput">
 
-        <input id="inputButton" @bind="qrContent" placeholder="Enter text to encode"/>
+        <input id="inputBox" @bind="qrContent" placeholder="Enter text to encode"/>
 
-        <button @onclick="GenerateQRCode">Generate QR Code</button>
+        <button id="inputButton" @onclick="GenerateQRCode">Generate QR Code</button>
 
     </div>
     <!-- Div to contain the generated QR code -->
     <div id="generatedQR">
-        <canvas id="qrCanvas" width="177" height="177"></canvas>
+        <canvas id="qrCanvas" width="350" height="350"></canvas>
     </div>
     
 </div>
