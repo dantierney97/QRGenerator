@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "xDHsX46L",
+  "version": "oYJpSQEK",
   "assets": [
     {
       "hash": "sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=",
@@ -66,7 +66,7 @@ self.assetsManifest = {
       "url": "Fonts/Tesco Modern/tescomodern-regular-webfont.woff2"
     },
     {
-      "hash": "sha256-dIw27aRT3hS/Bb8Vd1+5lWrV3t2KUYI2tSVv/B9WPUU=",
+      "hash": "sha256-UC8kPC6xTj9ceh7YV6aedYVtmlE3BYy6bPMKDk7gs1c=",
       "url": "QRGenerator.styles.css"
     },
     {
@@ -182,12 +182,12 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.SystemEvents.r5vp8cy76v.wasm"
     },
     {
-      "hash": "sha256-tNS6YCxmvGpcIBKvVXefmBG/VDeBwmxWo6WWkHwhpy8=",
-      "url": "_framework/QRGenerator.0lc87rvdmg.wasm"
+      "hash": "sha256-4iBUYAgbE67sx6xbehw/2pnbg4vaI20m+AJE8hgXUbE=",
+      "url": "_framework/QRGenerator.2z389k6p81.pdb"
     },
     {
-      "hash": "sha256-vAv45WBQYoyOPtPnayjCJw3bBy1Z2bmS4uIkE1caxCQ=",
-      "url": "_framework/QRGenerator.wtt1vmp6on.pdb"
+      "hash": "sha256-NToOa+hnQDLWn/Lw/fJPVf5FM0fuTHj8kReB3qNnXZ4=",
+      "url": "_framework/QRGenerator.fzxbhdkwaz.wasm"
     },
     {
       "hash": "sha256-5pP28oj+T15VeBQT3uJnsXFG8tTX+phKnhVZ0Wn+uLU=",
@@ -850,7 +850,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-bOU2PATPPVnMuvo5IOyubhFXnmolOJgcU4j6SSWF0u0=",
+      "hash": "sha256-t6tbek4e0L05V2KKDonEGD3ZhlqCVLARGXa8hBSmbTw=",
       "url": "_framework/blazor.boot.json"
     },
     {

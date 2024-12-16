@@ -65,19 +65,32 @@
     color: white;
 }
 
-@media (min-width: 641px) {
-    .navbar-toggler[b-ctc344m83d] {
-        display: none;
-    }
+/* Default sidebar for larger screens */
+.nav-scrollable[b-ctc344m83d] {
+    width: 250px; /* Default sidebar width */
+    height: calc(100vh - 3.5rem); /* Full height below navbar */
+    overflow-y: auto; /* Enable scrolling */
+    transition: transform 0.3s ease; /* Smooth transitions */
+}
 
-    .collapse[b-ctc344m83d] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
-    }
-
+/* Sidebar on small screens (hidden by default) */
+@media (max-width: 640px) {
     .nav-scrollable[b-ctc344m83d] {
-        /* Allow sidebar to scroll for tall menus */
-        height: calc(100vh - 3.5rem);
-        overflow-y: auto;
+        position: absolute; /* Take out of document flow */
+        top: 0; /* Align to top */
+        left: 0; /* Align to left */
+        width: 100%; /* Full screen width */
+        height: 100vh; /* Full viewport height */
+        background-color: rgba(0, 0, 0, 0.9); /* Dark overlay */
+        z-index: 1000; /* Place on top of everything */
+        transform: translateX(-100%); /* Hide off-screen */
+    }
+
+    .nav-scrollable.open[b-ctc344m83d] {
+        transform: translateX(0); /* Slide into view */
+    }
+
+    .navbar-toggler[b-ctc344m83d] {
+        display: block; /* Ensure button is visible */
     }
 }
