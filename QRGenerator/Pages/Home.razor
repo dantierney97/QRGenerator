@@ -4,6 +4,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js"></script>
 <script src="js/qrScript.js"></script>
+<link rel="stylesheet" href="css/home.css"/>
 
 <PageTitle>Home</PageTitle>
 
@@ -16,7 +17,7 @@
     <!-- Div to contain the user input -->
     <div id="urlInput">
 
-        <input @bind="qrContent" placeholder="Enter text to encode"/>
+        <input id="inputButton" @bind="qrContent" placeholder="Enter text to encode"/>
 
         <button @onclick="GenerateQRCode">Generate QR Code</button>
 

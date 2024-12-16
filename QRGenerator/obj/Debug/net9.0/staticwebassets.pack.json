@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets/css/app.css"
     },
     {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
       "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
