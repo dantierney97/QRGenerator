@@ -1,25 +1,36 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar @(collapseNavMenu ? "collapsed" : "")">
-        <NavMenu />
-    </div>
-    <div class="main-area">
-        <div class="header">
-            <HeaderSection />
-            <button class="sidebar-toggle" @onclick="ToggleSidebar">☰</button>
+<div class="layout-container">
+    <!-- Sidebar -->
+    <div class="sidebar @(isSidebarCollapsed ? "collapsed" : "")">
+        <div class="sidebar-header">
+            <button class="toggle-button" @onclick="ToggleSidebar">☰</button>
+            <span class="sidebar-title">Menu</span>
         </div>
-        <main>
+        <nav class="sidebar-content">
+            <NavLink class="navlink" href="/" Match="NavLinkMatch.All">
+                <span>Home</span>
+            </NavLink>
+            <!-- Add more links as necessary -->
+        </nav>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="content-header">
+            <h1>Welcome!</h1>
+        </div>
+        <div class="content-body">
             @Body
-        </main>
+        </div>
     </div>
 </div>
 
 @code {
-    private bool collapseNavMenu = false;
+    private bool isSidebarCollapsed = true;
 
     private void ToggleSidebar()
     {
-        collapseNavMenu = !collapseNavMenu;
+        isSidebarCollapsed = !isSidebarCollapsed;
     }
 }
