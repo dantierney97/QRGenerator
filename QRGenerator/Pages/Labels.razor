@@ -1,4 +1,5 @@
 @page "/Labels"
+@using System.Reflection
 <h2>Labels</h2>
 
 <div class="user-input">
@@ -7,7 +8,7 @@
     <input class="input"    id="product-ean"     @Bind="productEAN"      placeholder="Product EAN"/>
     <input class="input"    id="product-price"   @Bind="productPrice"    placeholder="Product Price"/>
     
-    <button class="add-label">Add Label</button>
+    <button class="add-label" @onclick="AddLabel">Add Label</button>
 </div>
 
 <div class="output">
@@ -25,6 +26,31 @@
 
     private string productPrice;
 
-    private List<Product> products = new();
+    // List for storing each product inputted. Will have a max size of 10.
+    private List<Product> _products = new();
+
+    private void AddLabel()
+    {
+        if (_products.Count <= 10)
+        {
+            // Create new product and add it to the list
+            var product = new Product()
+            {
+                productName     = productName,
+                productTPN      = productTPN,
+                productEAN      = productEAN,
+                productPrice    = productPrice
+            };
+            
+            // Add product to the list
+            _products.Add(product);
+            
+            // Clear user input fields
+            productName     = string.Empty;
+            productTPN      = string.Empty;
+            productEAN      = string.Empty;
+            productPrice    = string.Empty;
+        }
+    }
 
 }
