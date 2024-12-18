@@ -118,14 +118,14 @@ h1[b-ugd4ksu6yr] {
 
 .sidebar .sidebar-content .navlink[b-vo19hihs1r] {
     display: block;
-    color: white;
-    background-color: red;
+    color: #ecf0f1;
     text-decoration: none;
     padding: 10px;
     border-radius: 4px;
     transition: background 0.2s;
     width: 90%;
-    margin: 50px;
+    margin: 5px auto;
+    text-align: center;
 }
 
 .sidebar .sidebar-content .navlink:hover[b-vo19hihs1r] {
