@@ -1,6 +1,25 @@
 @page "/Labels"
-<h3>Labels</h3>
+<h2>Labels</h2>
+
+<div class="user-input">
+    <input class="input"    id="product-name"    @bind="productName"     placeholder="Product Name"/>
+    <input class="input"    id="product-tpn"     @Bind="productTPN"      placeholder="Product TPN"/>
+    <input class="input"    id="product-ean"     @Bind="productEAN"      placeholder="Product EAN"/>
+    <input class="input"    id="product-price"   @Bind="productPrice"    placeholder="Product Price"/>
+</div>
+
+<div class="output">
+    
+</div>
 
 @code {
-    
+
+    private string productName;
+
+    private string productTPN;
+
+    private string productEAN;
+
+    private string productPrice;
+
 }

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Pages/Labels.razor.js",
+      "PackagePath": "staticwebassets/Pages/Labels.razor.js"
+    },
+    {
       "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },

@@ -157,3 +157,13 @@ h1[b-ugd4ksu6yr] {
     flex: 1;
     padding: 20px;
 }
+/* /Pages/Labels.razor.rz.scp.css */
+.user-input[b-h2g9053k37] {
+    display: flex;
+    flex-direction: column;
+}
+
+.input[b-h2g9053k37] {
+    width: 80%;
+    margin: 10px auto;
+}

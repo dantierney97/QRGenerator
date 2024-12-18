@@ -28,8 +28,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+[/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Pages/QR.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUVIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/_Imports.razor]
@@ -43,3 +43,7 @@ build_metadata.AdditionalFiles.CssScope = b-ugd4ksu6yr
 [/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-vo19hihs1r
+
+[/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/Pages/Labels.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFiZWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-h2g9053k37
