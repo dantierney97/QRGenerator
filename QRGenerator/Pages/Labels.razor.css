@@ -7,3 +7,18 @@
     width: 80%;
     margin: 10px auto;
 }
+
+.add-label {
+    width: 80%;
+    margin: 10px auto;
+    background-color: #00539F;
+    color: white;
+    border-radius: 10px;
+    transition: 0.4s ease;
+}
+
+.add-label:hover {
+    background-color: white;
+    color: #00539F;
+    transition: 0.4s ease;
+}

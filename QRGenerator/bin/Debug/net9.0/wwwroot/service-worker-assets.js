@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "bA0/ajXm",
+  "version": "mE9Gpns5",
   "assets": [
     {
       "hash": "sha256-eL9mWniS9pUV8ndE9xjiE0ttSsy1Zj5ZQ7kL7c9kOso=",
@@ -70,7 +70,7 @@ self.assetsManifest = {
       "url": "Pages/Labels.razor.js"
     },
     {
-      "hash": "sha256-mshZA66bKfvh87RlXQ19vxUjbglox+qXYU4cVnwHinY=",
+      "hash": "sha256-5YQHNrufXLxupPshEIJSUi4kgZ7ndvkMrTN80A+gxAM=",
       "url": "QRGenerator.styles.css"
     },
     {
@@ -186,12 +186,12 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Win32.SystemEvents.r5vp8cy76v.wasm"
     },
     {
-      "hash": "sha256-KCBgM+EUJJA7mdXkZ0Q9KIZXyylSK/K3s5AflwS3TEw=",
-      "url": "_framework/QRGenerator.49yzwi6uts.pdb"
+      "hash": "sha256-xUBsMwZ2Vvh4vzaJ2CXNjrYXK6CgCw4KkVa9zrxCSyo=",
+      "url": "_framework/QRGenerator.5c1sff4w05.wasm"
     },
     {
-      "hash": "sha256-63X1SXs4ptjTLkN4Mf6D8+95k+oe/6KzhyLkenLFhUc=",
-      "url": "_framework/QRGenerator.58zjpm84wo.wasm"
+      "hash": "sha256-q5EDsMtD1Wd+XwDbhfWcf/SXra3LkWXQFv91S7ElwPw=",
+      "url": "_framework/QRGenerator.jm8o4fvhzh.pdb"
     },
     {
       "hash": "sha256-5pP28oj+T15VeBQT3uJnsXFG8tTX+phKnhVZ0Wn+uLU=",
@@ -854,7 +854,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.377bly7twj.wasm"
     },
     {
-      "hash": "sha256-bXWkZHsusV7T33VpSw5s2yPnqrOL4H4NtU1n/JTQAH8=",
+      "hash": "sha256-8XCTzdpgQ1kAR/ioK/ctr6yCW/KmIIVUSFdYkK2cNXA=",
       "url": "_framework/blazor.boot.json"
     },
     {
