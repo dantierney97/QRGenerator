@@ -8,11 +8,12 @@
 /* Sidebar */
 .sidebar {
     width: 250px; /* Default width */
-    background-color: #2c3e50; /* Dark background */
-    color: #ecf0f1; /* Light text */
+    background-color: #00539F; /* Dark background */
+    color: white; /* Light text */
     display: flex;
     flex-direction: column;
     transition: width 0.5s ease; /* Smooth collapse animation */
+    transition-delay: 0.1s;
 }
 
 .sidebar.collapsed {
@@ -23,7 +24,7 @@
     display: flex;
     align-items: center;
     padding: 10px;
-    background-color: #34495e;
+    background-color: #0053CF;
 }
 
 .toggle-button {
@@ -32,19 +33,16 @@
     color: #ecf0f1;
     font-size: 1.5rem;
     cursor: pointer;
-    margin-right: 10px;
 }
 
-.sidebar-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-    display: inline-block;
-    white-space: nowrap;
+.sidebar-collapsed .toggle-button {
+    margin-right: auto;
+    margin-left: auto;
 }
 
-/* Hide sidebar title when collapsed */
-.sidebar.collapsed .sidebar-title {
-    display: none;
+.sidebar-collapsed .sidebar-header {
+    justify-content: center;
+    align-items: center;
 }
 
 /* Sidebar content */
@@ -52,22 +50,23 @@
     flex: 1;
     justify-content: center;
     padding: 10px;
-    transition: opacity 0.5s ease;
+    transition: opacity 0.3s ease; /* Smooth opacity transition */
 }
 
-/* Sidebar content transition for opacity */
-.sidebar-content, .sidebar-title {
+/* Sidebar content and title default state */
+.sidebar-content{
     opacity: 1;
     visibility: visible; /* Default: visible */
-    transition: opacity 0.3s ease, visibility 0.3s linear; /* Smooth transitions */
+    transition: opacity 0.3s ease, visibility 0.5s linear; /* Smooth transitions */
+    transition-delay: 0.5s; /* Delay fades until after sidebar is fully extended */
 }
 
-/* Hide content when collapsed */
-.sidebar.collapsed .sidebar-content,
-.sidebar.collapsed .sidebar-title {
+/* Hide content and title when sidebar is collapsed */
+.sidebar.collapsed .sidebar-content {
     opacity: 0;
-    transition: opacity 0.3s ease, visibility 0.3s step-end; /* Delay visibility until fade-out completes */
-    visibility: hidden;
+    visibility: hidden; /* Visibility hidden after fade-out */
+    transition: opacity 0.3s ease, visibility 0s linear; /* Fade-out with no delay */
+    transition-delay: 0s; /* No delay when hiding during collapse */
 }
 
 .sidebar .sidebar-content .navlink {
