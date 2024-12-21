@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "QRGenerator",
   "resources": {
-    "hash": "sha256-pDkFqAIcY5MqBviYk50i2tcz+DBQiQ29mqN6eCuSwvI=",
+    "hash": "sha256-5YUQ12YzM746PLCo3p91lDrlYUUulhhqPrf56ydg0Xs=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -206,8 +206,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "QRGenerator.33o1ox9uxh.wasm": "QRGenerator.wasm",
-      "QRGenerator.xjtr2xuenw.pdb": "QRGenerator.pdb"
+      "QRGenerator.4ldmmqrvtd.wasm": "QRGenerator.wasm",
+      "QRGenerator.94rmladcmm.pdb": "QRGenerator.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -422,10 +422,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "QRGenerator.33o1ox9uxh.wasm": "sha256-L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug="
+      "QRGenerator.4ldmmqrvtd.wasm": "sha256-SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54="
     },
     "pdb": {
-      "QRGenerator.xjtr2xuenw.pdb": "sha256-XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc="
+      "QRGenerator.94rmladcmm.pdb": "sha256-N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64="
     }
   },
   "cacheBootResources": true,

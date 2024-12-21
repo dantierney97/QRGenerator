@@ -1,12 +1,20 @@
 @page "/Labels"
 @using System.Reflection
+@using QRGenerator.Pages
 <h2>Labels</h2>
 
 <div class="user-input">
-    <input class="input"    id="product-name"    @bind="productName"     placeholder="Product Name"/>
-    <input class="input"    id="product-tpn"     @Bind="productTPN"      placeholder="Product TPN"/>
-    <input class="input"    id="product-ean"     @Bind="productEAN"      placeholder="Product EAN"/>
-    <input class="input"    id="product-price"   @Bind="productPrice"    placeholder="Product Price"/>
+    <input class="input" id="product-name" placeholder="Product Name" 
+           @oninput="e => UpdateInput(e, nameof(productName))" />
+    
+    <input class="input" id="product-tpn" placeholder="Product TPN" 
+           @oninput="e => UpdateInput(e, nameof(productTPN))" />
+    
+    <input class="input" id="product-ean" placeholder="Product EAN" 
+           @oninput="e => UpdateInput(e, nameof(productEAN))" />
+    
+    <input class="input" id="product-price" placeholder="Product Price" 
+           @oninput="e => UpdateInput(e, nameof(productPrice))" />
     
     <button class="add-label" @onclick="AddLabel">Add Label</button>
 </div>
@@ -18,29 +26,50 @@
 @code {
 
     // Input bindings
-    private string productName;
+    private string productName =    string.Empty;
 
-    private string productTPN;
+    private string productTPN =     string.Empty;
 
-    private string productEAN;
+    private string productEAN =     string.Empty;
 
-    private string productPrice;
+    private string productPrice =   string.Empty;
 
     // List for storing each product inputted. Will have a max size of 10.
-    private List<Product> _products = new();
+    private static List<Product> _products = new();
+
+    private void UpdateInput(ChangeEventArgs e, string fieldName)
+    {
+        var value = e.Value?.ToString() ?? string.Empty;
+        switch (fieldName)
+        {
+            case nameof(productName):   productName     = value; break;
+            case nameof(productTPN):    productTPN      = value; break;
+            case nameof(productEAN):    productEAN      = value; break;
+            case nameof(productPrice):  productPrice    = value; break;    
+        }
+    }
+    
+    
 
     private void AddLabel()
     {
-        if (_products.Count <= 10)
+        
+        Console.WriteLine(productName);
+        Console.WriteLine(productTPN);
+        Console.WriteLine(productEAN);
+        Console.WriteLine(productPrice);
+        
+        if (_products.Count < 10)
         {
             // Create new product and add it to the list
-            var product = new Product()
-            {
-                productName     = productName,
-                productTPN      = productTPN,
-                productEAN      = productEAN,
-                productPrice    = productPrice
-            };
+            Product product = new Product(productName.Trim(), productTPN.Trim(), 
+                productEAN.Trim(), productPrice.Trim());
+            
+            Console.WriteLine($"Product Name: {product.productName}");
+            Console.WriteLine($"Product TPN: {product.productTPN}");
+            Console.WriteLine($"Product EAN: {product.productEAN}");
+            Console.WriteLine($"Label Barcode: {product.labelBarcode}");
+            Console.WriteLine($"Product Price: {product.productPrice}");
             
             // Add product to the list
             _products.Add(product);

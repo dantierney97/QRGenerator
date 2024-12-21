@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GGS3yc5N+SVoWpl/vuRRg/bCXzJBWR5wQCJFlPZGyfI=",
+  "Hash": "XISnQ7J1QtAx/4qHkefyrpo3xdCwe4a0E99s80LmEn0=",
   "Source": "QRGenerator",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "4c60v2b4ti",
-      "Integrity": "7GhM2sVSZmfEaF86kNkC7iCzVeatFCzOVlu7W+0YBBA=",
+      "Fingerprint": "j4nypo0p95",
+      "Integrity": "kwIKmvSQ6KNmdlK8ONRHYIILG2b90yiSRFpRDDLrda4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xjtr2xuenw",
-      "Integrity": "XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc=",
+      "Fingerprint": "94rmladcmm",
+      "Integrity": "N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/QRGenerator.pdb"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "33o1ox9uxh",
-      "Integrity": "L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug=",
+      "Fingerprint": "4ldmmqrvtd",
+      "Integrity": "SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/webcil/QRGenerator.wasm"
@@ -4805,7 +4805,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/index.html"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-xi64jj944k.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-uh8pka41mg.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -4819,8 +4819,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/service-worker/service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "b7xjkttaoc",
-      "Integrity": "KVnxxQ2XNZStMi+GVv/k9BoBHsjER5sf/kBoHpGUoyo=",
+      "Fingerprint": "y1x8y71fjg",
+      "Integrity": "qvjfwstO4BismkEyoPI1f60JR51BX/SuBCFX/YnQQhA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/service-worker/service-worker-assets.js.build"
@@ -5876,7 +5876,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-m81w496pst.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-uwxnd0dhrt.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -8774,12 +8774,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-xjtr2xuenw.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-94rmladcmm.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/QRGenerator#[.{fingerprint=xjtr2xuenw}]!.pdb.gz",
+      "RelativePath": "_framework/QRGenerator#[.{fingerprint=94rmladcmm}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8788,8 +8788,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fh4xikshvj",
-      "Integrity": "87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus=",
+      "Fingerprint": "qugj2jxqt1",
+      "Integrity": "7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb"
@@ -8921,12 +8921,12 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.Calendars.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-33o1ox9uxh.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-4ldmmqrvtd.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/QRGenerator#[.{fingerprint=33o1ox9uxh}]!.wasm.gz",
+      "RelativePath": "_framework/QRGenerator#[.{fingerprint=4ldmmqrvtd}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8935,8 +8935,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vdh4gyxn0i",
-      "Integrity": "A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w=",
+      "Fingerprint": "gdo0xpbz6k",
+      "Integrity": "nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm"
@@ -9236,7 +9236,7 @@
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-4c60v2b4ti.gz",
+      "Identity": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-j4nypo0p95.gz",
       "SourceId": "QRGenerator",
       "SourceType": "Computed",
       "ContentRoot": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/",
@@ -9250,8 +9250,8 @@
       "RelatedAsset": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lh0fxhchp0",
-      "Integrity": "x6oyx+GUnz2YAzrU4EbXAmaFFMzpA4vylF6WbIOnSmw=",
+      "Fingerprint": "d63e5jo4rm",
+      "Integrity": "aydmIpcHlJehvuxaFSd1zaPC1qvjyNZVoRvoVKAL2zY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -10006,8 +10006,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "xi64jj944k",
-      "Integrity": "91a3AuBLwvTtcx8T7cf+fBhSFWFcT/pUdfsxB7WadNs=",
+      "Fingerprint": "uh8pka41mg",
+      "Integrity": "voxyufRfRF6/7OBP6wU1AMzK/9URBL6RiExFTqE5Rv4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/service-worker/service-worker-assets.js.build"
@@ -10027,8 +10027,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "m81w496pst",
-      "Integrity": "RrYrJ/G2f+lX70NQtQfPk5JrqQSjWz4LtUZeF//GE70=",
+      "Fingerprint": "uwxnd0dhrt",
+      "Integrity": "krfcFHjzXnGMSRztKa/a2F1bIv55swstGisA3Fc/Om0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot/service-worker.js"
@@ -11524,11 +11524,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7GhM2sVSZmfEaF86kNkC7iCzVeatFCzOVlu7W+0YBBA=\""
+          "Value": "\"kwIKmvSQ6KNmdlK8ONRHYIILG2b90yiSRFpRDDLrda4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11538,18 +11538,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7GhM2sVSZmfEaF86kNkC7iCzVeatFCzOVlu7W+0YBBA="
+          "Value": "sha256-kwIKmvSQ6KNmdlK8ONRHYIILG2b90yiSRFpRDDLrda4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-4c60v2b4ti.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-j4nypo0p95.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079333598"
+          "Quality": "0.000079371379"
         }
       ],
       "ResponseHeaders": [
@@ -11559,15 +11559,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12604"
+          "Value": "12598"
         },
         {
           "Name": "ETag",
-          "Value": "\"x6oyx+GUnz2YAzrU4EbXAmaFFMzpA4vylF6WbIOnSmw=\""
+          "Value": "\"aydmIpcHlJehvuxaFSd1zaPC1qvjyNZVoRvoVKAL2zY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:14:01 GMT"
+          "Value": "Sat, 21 Dec 2024 13:56:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11587,19 +11587,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7GhM2sVSZmfEaF86kNkC7iCzVeatFCzOVlu7W+0YBBA=\""
+          "Value": "W/\"kwIKmvSQ6KNmdlK8ONRHYIILG2b90yiSRFpRDDLrda4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7GhM2sVSZmfEaF86kNkC7iCzVeatFCzOVlu7W+0YBBA="
+          "Value": "sha256-kwIKmvSQ6KNmdlK8ONRHYIILG2b90yiSRFpRDDLrda4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-4c60v2b4ti.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/uza0eq353m-j4nypo0p95.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11608,7 +11608,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12604"
+          "Value": "12598"
         },
         {
           "Name": "Content-Type",
@@ -11616,11 +11616,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x6oyx+GUnz2YAzrU4EbXAmaFFMzpA4vylF6WbIOnSmw=\""
+          "Value": "\"aydmIpcHlJehvuxaFSd1zaPC1qvjyNZVoRvoVKAL2zY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:14:01 GMT"
+          "Value": "Sat, 21 Dec 2024 13:56:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11638,7 +11638,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x6oyx+GUnz2YAzrU4EbXAmaFFMzpA4vylF6WbIOnSmw="
+          "Value": "sha256-aydmIpcHlJehvuxaFSd1zaPC1qvjyNZVoRvoVKAL2zY="
         }
       ]
     },
@@ -23402,7 +23402,7 @@
       ]
     },
     {
-      "Route": "_framework/QRGenerator.33o1ox9uxh.wasm",
+      "Route": "_framework/QRGenerator.4ldmmqrvtd.wasm",
       "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23412,7 +23412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18709"
+          "Value": "20757"
         },
         {
           "Name": "Content-Type",
@@ -23420,11 +23420,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug=\""
+          "Value": "\"SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23434,7 +23434,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "33o1ox9uxh"
+          "Value": "4ldmmqrvtd"
         },
         {
           "Name": "label",
@@ -23442,18 +23442,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug="
+          "Value": "sha256-SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54="
         }
       ]
     },
     {
-      "Route": "_framework/QRGenerator.33o1ox9uxh.wasm",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-33o1ox9uxh.gz",
+      "Route": "_framework/QRGenerator.4ldmmqrvtd.wasm",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-4ldmmqrvtd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000119360229"
+          "Quality": "0.000107376785"
         }
       ],
       "ResponseHeaders": [
@@ -23463,15 +23463,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8377"
+          "Value": "9312"
         },
         {
           "Name": "ETag",
-          "Value": "\"A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w=\""
+          "Value": "\"nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23491,13 +23491,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug=\""
+          "Value": "W/\"SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "33o1ox9uxh"
+          "Value": "4ldmmqrvtd"
         },
         {
           "Name": "label",
@@ -23505,13 +23505,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug="
+          "Value": "sha256-SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54="
         }
       ]
     },
     {
-      "Route": "_framework/QRGenerator.33o1ox9uxh.wasm.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-33o1ox9uxh.gz",
+      "Route": "_framework/QRGenerator.4ldmmqrvtd.wasm.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-4ldmmqrvtd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23520,7 +23520,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8377"
+          "Value": "9312"
         },
         {
           "Name": "Content-Type",
@@ -23528,11 +23528,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w=\""
+          "Value": "\"nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23550,7 +23550,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "33o1ox9uxh"
+          "Value": "4ldmmqrvtd"
         },
         {
           "Name": "label",
@@ -23558,7 +23558,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w="
+          "Value": "sha256-nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.94rmladcmm.pdb",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94rmladcmm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.94rmladcmm.pdb",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-94rmladcmm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057776751"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17307"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94rmladcmm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/QRGenerator.94rmladcmm.pdb.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-94rmladcmm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94rmladcmm"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/QRGenerator.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek="
         }
       ]
     },
@@ -23573,7 +23734,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22972"
+          "Value": "24404"
         },
         {
           "Name": "Content-Type",
@@ -23581,11 +23742,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc=\""
+          "Value": "\"N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:38 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23595,18 +23756,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc="
+          "Value": "sha256-N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-xjtr2xuenw.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-94rmladcmm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000061278265"
+          "Quality": "0.000057776751"
         }
       ],
       "ResponseHeaders": [
@@ -23616,15 +23777,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16318"
+          "Value": "17307"
         },
         {
           "Name": "ETag",
-          "Value": "\"87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus=\""
+          "Value": "\"7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23644,19 +23805,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc=\""
+          "Value": "W/\"N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc="
+          "Value": "sha256-N2DOt27LDvamlZHYU9OzgphbkBm3DV9mFV3K/XoUi64="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.pdb.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-xjtr2xuenw.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-94rmladcmm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23665,7 +23826,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16318"
+          "Value": "17307"
         },
         {
           "Name": "Content-Type",
@@ -23673,11 +23834,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus=\""
+          "Value": "\"7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23695,7 +23856,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus="
+          "Value": "sha256-7iXg33u4ZrS8anTQkBvz14jtRZrF1S9d1FVF44xlGek="
         }
       ]
     },
@@ -23710,7 +23871,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18709"
+          "Value": "20757"
         },
         {
           "Name": "Content-Type",
@@ -23718,11 +23879,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug=\""
+          "Value": "\"SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23732,18 +23893,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug="
+          "Value": "sha256-SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.wasm",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-33o1ox9uxh.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-4ldmmqrvtd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000119360229"
+          "Quality": "0.000107376785"
         }
       ],
       "ResponseHeaders": [
@@ -23753,15 +23914,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8377"
+          "Value": "9312"
         },
         {
           "Name": "ETag",
-          "Value": "\"A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w=\""
+          "Value": "\"nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23781,19 +23942,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug=\""
+          "Value": "W/\"SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L3yfb8avr/Rsm+5bEMhCfP4SfS+VNdPPHntteaObAug="
+          "Value": "sha256-SNzpCm5Pinclm9axGpnA1oIOSKNlzYzIvCMz5fFbt54="
         }
       ]
     },
     {
       "Route": "_framework/QRGenerator.wasm.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-33o1ox9uxh.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/rqofxulycr-4ldmmqrvtd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23802,7 +23963,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8377"
+          "Value": "9312"
         },
         {
           "Name": "Content-Type",
@@ -23810,11 +23971,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w=\""
+          "Value": "\"nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23832,168 +23993,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A9nHAN4wUO92t5kBSnahn4ZeD6uOnl+dCTQWNatdf6w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.xjtr2xuenw.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/bin/Debug/net9.0/wwwroot/_framework/QRGenerator.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xjtr2xuenw"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.xjtr2xuenw.pdb",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-xjtr2xuenw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000061278265"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xjtr2xuenw"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XZRICyLYIG0s9Z4+hSq/U99KdKHL6U/N9lXqpL6f1Kc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/QRGenerator.xjtr2xuenw.pdb.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/qkxip4iktc-xjtr2xuenw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xjtr2xuenw"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/QRGenerator.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-87a8YDCO6HVm8108vaSix2WtH3BkNGddKtXhQg8Arus="
+          "Value": "sha256-nE9pKZGeiwqy6TnXo/NVWOXwnfn5pHwsaEAn1mtX9XI="
         }
       ]
     },
@@ -90666,12 +90666,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-xi64jj944k.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-uh8pka41mg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000072939460"
+          "Quality": "0.000072955424"
         }
       ],
       "ResponseHeaders": [
@@ -90681,15 +90681,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13709"
+          "Value": "13706"
         },
         {
           "Name": "ETag",
-          "Value": "\"KVnxxQ2XNZStMi+GVv/k9BoBHsjER5sf/kBoHpGUoyo=\""
+          "Value": "\"qvjfwstO4BismkEyoPI1f60JR51BX/SuBCFX/YnQQhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -90709,13 +90709,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"91a3AuBLwvTtcx8T7cf+fBhSFWFcT/pUdfsxB7WadNs=\""
+          "Value": "W/\"voxyufRfRF6/7OBP6wU1AMzK/9URBL6RiExFTqE5Rv4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-91a3AuBLwvTtcx8T7cf+fBhSFWFcT/pUdfsxB7WadNs="
+          "Value": "sha256-voxyufRfRF6/7OBP6wU1AMzK/9URBL6RiExFTqE5Rv4="
         }
       ]
     },
@@ -90738,11 +90738,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"91a3AuBLwvTtcx8T7cf+fBhSFWFcT/pUdfsxB7WadNs=\""
+          "Value": "\"voxyufRfRF6/7OBP6wU1AMzK/9URBL6RiExFTqE5Rv4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -90752,13 +90752,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-91a3AuBLwvTtcx8T7cf+fBhSFWFcT/pUdfsxB7WadNs="
+          "Value": "sha256-voxyufRfRF6/7OBP6wU1AMzK/9URBL6RiExFTqE5Rv4="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-xi64jj944k.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/376cpma8vq-uh8pka41mg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -90767,7 +90767,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13709"
+          "Value": "13706"
         },
         {
           "Name": "Content-Type",
@@ -90775,11 +90775,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KVnxxQ2XNZStMi+GVv/k9BoBHsjER5sf/kBoHpGUoyo=\""
+          "Value": "\"qvjfwstO4BismkEyoPI1f60JR51BX/SuBCFX/YnQQhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -90797,13 +90797,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KVnxxQ2XNZStMi+GVv/k9BoBHsjER5sf/kBoHpGUoyo="
+          "Value": "sha256-qvjfwstO4BismkEyoPI1f60JR51BX/SuBCFX/YnQQhA="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-m81w496pst.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-uwxnd0dhrt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -90826,7 +90826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -90846,13 +90846,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RrYrJ/G2f+lX70NQtQfPk5JrqQSjWz4LtUZeF//GE70=\""
+          "Value": "W/\"krfcFHjzXnGMSRztKa/a2F1bIv55swstGisA3Fc/Om0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RrYrJ/G2f+lX70NQtQfPk5JrqQSjWz4LtUZeF//GE70="
+          "Value": "sha256-krfcFHjzXnGMSRztKa/a2F1bIv55swstGisA3Fc/Om0="
         }
       ]
     },
@@ -90875,7 +90875,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RrYrJ/G2f+lX70NQtQfPk5JrqQSjWz4LtUZeF//GE70=\""
+          "Value": "\"krfcFHjzXnGMSRztKa/a2F1bIv55swstGisA3Fc/Om0=\""
         },
         {
           "Name": "Last-Modified",
@@ -90889,13 +90889,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RrYrJ/G2f+lX70NQtQfPk5JrqQSjWz4LtUZeF//GE70="
+          "Value": "sha256-krfcFHjzXnGMSRztKa/a2F1bIv55swstGisA3Fc/Om0="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-m81w496pst.gz",
+      "AssetFile": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/obj/Debug/net9.0/compressed/amyxoyikap-uwxnd0dhrt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -90916,7 +90916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 12:15:39 GMT"
+          "Value": "Sat, 21 Dec 2024 14:08:12 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -8,8 +8,19 @@ public partial class Labels : ComponentBase
 
 public class Product
 {
-    public string productName { get; set; }
-    public string productTPN { get; set; }
-    public string productEAN { get; set; }
-    public string productPrice { get; set; }
+    public Product(string productName, string productTpn, string productEan, string productPrice)
+    {
+        this.productName = productName;
+        productTPN = productTpn;
+        productEAN = productEan;
+        this.productPrice = productPrice;
+        this.labelBarcode = productTpn + "/" + productEan;
+    }
+
+    public string productName { get; }
+    public string productTPN { get; }
+    public string productEAN { get; }
+    public string productPrice { get; }
+
+    public string labelBarcode { get; }
 }
