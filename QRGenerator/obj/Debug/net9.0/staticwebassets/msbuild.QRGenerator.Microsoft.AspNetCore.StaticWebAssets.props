@@ -1254,8 +1254,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>05qgouydeh</Fingerprint>
-      <Integrity>VJgNXVdjdw53Dkzvap+WXz/8+LM+K1E5qjPFVroV7cU=</Integrity>
+      <Fingerprint>6p44j6uvmk</Fingerprint>
+      <Integrity>ylttELejP9MD+oLCWc98dGg+NaNnmVd9YC7lbWxRXrA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\QRGenerator.styles.css'))</OriginalItemSpec>

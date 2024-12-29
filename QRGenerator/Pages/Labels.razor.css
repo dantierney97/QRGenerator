@@ -29,8 +29,8 @@
 .label_sheet {
     border: black solid 1px;
     /* Paper size set to A4 */
-    width: 20.9cm; 
-    height: 29.5cm;
+    width: 29.5cm; 
+    height: 20.9cm;
     /* Sets page borders for printing */
     padding-top: 6mm;
     padding-right: 10.5mm;
@@ -48,6 +48,33 @@
 .label {
     border: black solid 1px;
     /* Label size set to large label*/
-    width: 4cm;
-    height: 14.4cm;
+    width: 14.4cm;
+    height: 4cm;
+}
+
+.border {
+    border: red solid 1px;
+}
+
+.labelLeftInfo {
+    display: flex;
+    border: black solid 1px;
+    width: 3.85cm;
+    height: 4cm;
+    margin: 0;
+    padding: 0;
+} 
+
+.labelBarcode {
+    height: 0.8cm;
+    width: 3.2cm;
+    margin: 0;
+    padding: 0;
+}
+
+.productName {
+    height: 3.1cm;
+    width: 3.85cm;
+    padding: 0;
+    margin: 0;
 }
