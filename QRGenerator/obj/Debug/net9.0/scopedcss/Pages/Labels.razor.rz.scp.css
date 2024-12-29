@@ -25,3 +25,29 @@
     color: #00539F;
     transition: 0.4s ease;
 }
+
+.label_sheet[b-h2g9053k37] {
+    border: black solid 1px;
+    /* Paper size set to A4 */
+    width: 20.9cm; 
+    height: 29.5cm;
+    /* Sets page borders for printing */
+    padding-top: 6mm;
+    padding-right: 10.5mm;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin: 0;
+}
+
+.labelrow[b-h2g9053k37] {
+    width: 100%;
+    margin: 0;
+    display: flex;
+}
+
+.label[b-h2g9053k37] {
+    border: black solid 1px;
+    /* Label size set to large label*/
+    width: 4cm;
+    height: 14.4cm;
+}
