@@ -390,11 +390,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>70iah90h5e</Fingerprint>
-      <Integrity>WdGlNV/NZGCwgNz1wmCdUh1Gjak2LZVnz4TWfdcG7/g=</Integrity>
+      <Fingerprint>mj2ksk643l</Fingerprint>
+      <Integrity>HupU9i8aKuWU4XT6jbGv67fkS8BCya2f9o5prY3A8so=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\labels.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>QRGenerator</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>js/labels.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>38nemtxodz</Fingerprint>
+      <Integrity>7Rh9Q+cBrUGbZ9G3ncr3Heox7qSnMGGWOxwy+iJKo2s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\labels.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\qrScript.js'))">
       <SourceType>Package</SourceType>
@@ -1236,8 +1254,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d5lp0kafe4</Fingerprint>
-      <Integrity>r5hOXWs41ffBTIKxclVaqJ9nlsxDsuvunI750AU848k=</Integrity>
+      <Fingerprint>qr4pbcff1r</Fingerprint>
+      <Integrity>mtBfBlWWdt+7oBMyCVUw/AV9WC2vdfpfnvQiX0bRyZM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Pages\Labels.razor.js'))</OriginalItemSpec>

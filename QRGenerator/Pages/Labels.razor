@@ -1,7 +1,9 @@
+@inject IJSRuntime JS;
+
 @page "/Labels"
-@using System.Reflection
-@using QRGenerator.Pages
 <h2>Labels</h2>
+
+<script src="js/labels.js"></script>
 
 <div class="user-input">
     <input class="input" id="product-name" placeholder="Product Name" 
@@ -28,7 +30,7 @@
                 <div class="label">
                     <h2 class="productName">@product.productName</h2>
                     <h2 class="productPrice">@product.productPrice</h2>
-                    <h2>@product.labelBarcode</h2>
+                    <img src="@product.labelBarcode" alt="Barcode"/>
                 </div>
             }
         }
@@ -63,7 +65,7 @@
     
     
 
-    private void AddLabel()
+    private async void AddLabel()
     {
         
         Console.WriteLine(productName);
@@ -73,13 +75,16 @@
         
         if (_products.Count < 10)
         {
+            // Use productTPN + "/" + productEAN as the barcode value
+            string barcodeValue = $"{productTPN.Trim()}/{productEAN.Trim()}";
+            
+            // Generate barcode image
+            string barcodeImage = await GenerateBarcode(barcodeValue);
+            
             // Create new product and add it to the list
-            Product product = new Product(productName.Trim(), productTPN.Trim(), 
-                productEAN.Trim(), productPrice.Trim());
+            Product product = new Product(productName.Trim(), barcodeImage.Trim(), productPrice.Trim());
             
             Console.WriteLine($"Product Name: {product.productName}");
-            Console.WriteLine($"Product TPN: {product.productTPN}");
-            Console.WriteLine($"Product EAN: {product.productEAN}");
             Console.WriteLine($"Label Barcode: {product.labelBarcode}");
             Console.WriteLine($"Product Price: {product.productPrice}");
             
@@ -93,5 +98,8 @@
             productPrice    = string.Empty;
         }
     }
-
+    private async Task<string> GenerateBarcode(string barcodeValue)
+    {
+        return await JS.InvokeAsync<string>("generateBarcodeImage", barcodeValue);
+    }
 }

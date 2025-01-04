@@ -101,6 +101,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/js/labels.js",
+      "PackagePath": "staticwebassets/js/labels.js"
+    },
+    {
       "Id": "/Users/dant/Documents/GitHub/QRGenerator/QRGenerator/wwwroot/js/qrScript.js",
       "PackagePath": "staticwebassets/js/qrScript.js"
     },
