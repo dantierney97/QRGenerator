@@ -1,6 +1,7 @@
 
 window.generateBarcodeImage = (barcodeValue) => {
     try {
+
         // Validate the input to ensure it's a string
         if (!barcodeValue || typeof barcodeValue !== "string") {
             throw new Error("Expected a string for the barcode value.");

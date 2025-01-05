@@ -1,5 +1,8 @@
 @inject IJSRuntime JS;
 
+<script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+<script src="js/labels.js"></script>
+
 @page "/Labels"
 <h2>Labels</h2>
 
@@ -30,7 +33,7 @@
                 <div class="label">
                     <h2 class="productName">@product.productName</h2>
                     <h2 class="productPrice">@product.productPrice</h2>
-                    <img src="@product.labelBarcode" alt="Barcode"/>
+                    <img class="barcode" src="@product.labelBarcode" alt="Barcode"/>
                 </div>
             }
         }
@@ -81,6 +84,8 @@
             // Generate barcode image
             string barcodeImage = await GenerateBarcode(barcodeValue);
             
+            Console.WriteLine($"{barcodeImage}"); // Debug that barcodeImage is generating correctly
+            
             // Create new product and add it to the list
             Product product = new Product(productName.Trim(), barcodeImage.Trim(), productPrice.Trim());
             
@@ -90,6 +95,7 @@
             
             // Add product to the list
             _products.Add(product);
+            StateHasChanged(); // Forces UI Update
             
             // Clear user input fields
             productName     = string.Empty;
