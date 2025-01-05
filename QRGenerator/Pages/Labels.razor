@@ -31,9 +31,11 @@
             @foreach (var product in _products)
             {
                 <div class="label">
-                    <h2 class="productName">@product.productName</h2>
+                    <div class="labelLeftInfo">
+                        <h2 class="productName">@product.productName</h2>
+                        <img class="barcode" src="@product.labelBarcode" alt="Barcode"/>
+                    </div>
                     <h2 class="productPrice">@product.productPrice</h2>
-                    <img class="barcode" src="@product.labelBarcode" alt="Barcode"/>
                 </div>
             }
         }
