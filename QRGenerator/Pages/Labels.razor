@@ -15,9 +15,6 @@
     <input class="input" id="product-tpn" placeholder="Product TPN" 
            @oninput="e => UpdateInput(e, nameof(productTPN))" />
     
-    <input class="input" id="product-ean" placeholder="Product EAN" 
-           @oninput="e => UpdateInput(e, nameof(productEAN))" />
-    
     <input class="input" id="product-price" placeholder="Product Price" 
            @oninput="e => UpdateInput(e, nameof(productPrice))" />
     
@@ -49,8 +46,6 @@
 
     private string productTPN =     string.Empty;
 
-    private string productEAN =     string.Empty;
-
     private string productPrice =   string.Empty;
 
     // List for storing each product inputted. Will have a max size of 10.
@@ -63,7 +58,6 @@
         {
             case nameof(productName):   productName     = value; break;
             case nameof(productTPN):    productTPN      = value; break;
-            case nameof(productEAN):    productEAN      = value; break;
             case nameof(productPrice):  productPrice    = value; break;    
         }
     }
@@ -75,13 +69,12 @@
         
         Console.WriteLine(productName);
         Console.WriteLine(productTPN);
-        Console.WriteLine(productEAN);
         Console.WriteLine(productPrice);
         
         if (_products.Count < 10)
         {
             // Use productTPN + "/" + productEAN as the barcode value
-            string barcodeValue = $"{productTPN.Trim()}/{productEAN.Trim()}";
+            string barcodeValue = productTPN.Trim();
             
             // Generate barcode image
             string barcodeImage = await GenerateBarcode(barcodeValue);
@@ -102,7 +95,6 @@
             // Clear user input fields
             productName     = string.Empty;
             productTPN      = string.Empty;
-            productEAN      = string.Empty;
             productPrice    = string.Empty;
         }
     }
