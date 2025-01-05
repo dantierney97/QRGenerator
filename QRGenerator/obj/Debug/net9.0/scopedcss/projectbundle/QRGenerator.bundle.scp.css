@@ -238,15 +238,15 @@ h1[b-ugd4ksu6yr] {
 
 .productName[b-h2g9053k37] {
     text-align: center;
-    margin: 0;
-    font-size: 1rem;
+    margin-top: auto;
+    margin-bottom:auto;
 }
 
 .productPrice[b-h2g9053k37] {
-    margin: 0;
+    margin-top: auto;
+    margin-bottom:auto;
     padding: 5px;
-    font-size: 1.2rem;
-    text-align: right;
+    text-align: center;
     width: 10.55cm /* Adjust based on proportion */
 }
 
