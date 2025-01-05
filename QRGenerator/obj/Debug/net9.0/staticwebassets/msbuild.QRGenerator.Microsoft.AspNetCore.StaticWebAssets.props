@@ -408,8 +408,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lw3gkcu5ms</Fingerprint>
-      <Integrity>OyTjmCN8Dq2B6nK+xQZLRUAZjKRrWgGE60r/I1aXBAI=</Integrity>
+      <Fingerprint>ldfqo5itxt</Fingerprint>
+      <Integrity>WXzQiPaTMHtAkLdzC1DB74tEQMKtFfjDiOBcC5FIpo8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\labels.js'))</OriginalItemSpec>

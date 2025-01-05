@@ -22,4 +22,34 @@ window.generateBarcodeImage = (barcodeValue) => {
         console.error("Error generating barcode:", error.message);
         return "";
     }
+}
+
+window.adjustFontSize = () => {
+    // Get all elements with the class 'productName' and 'productPrice'
+    const elements = document.querySelectorAll('.productName, .productPrice');
+
+    elements.forEach(element => {
+        const parent = element.parentElement;
+        const parentWidth = parent.offsetWidth;
+        const parentHeight = parent.offsetHeight;
+
+        let fontSize = 10; // Starting font size
+        const maxFontSize = 100; // Arbitrary max font size for safety
+
+        // Temporarily set font size to measure
+        element.style.fontSize = `${fontSize}px`;
+
+        // Keep increasing the font size until the text overflows
+        while (
+            fontSize < maxFontSize &&
+            element.scrollWidth <= parentWidth &&
+            element.scrollHeight <= parentHeight
+            ) {
+            fontSize++;
+            element.style.fontSize = `${fontSize}px`;
+        }
+
+        // Reduce font size slightly to fit within container
+        element.style.fontSize = `${fontSize - 10}px`;
+    });
 };

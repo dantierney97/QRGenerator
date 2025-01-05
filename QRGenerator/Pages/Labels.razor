@@ -90,7 +90,10 @@
             
             // Add product to the list
             _products.Add(product);
+            
             StateHasChanged(); // Forces UI Update
+            
+            await JS.InvokeVoidAsync("adjustFontSize");
             
             // Clear user input fields
             productName     = string.Empty;
